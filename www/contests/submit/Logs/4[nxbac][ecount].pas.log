@@ -1,0 +1,68 @@
+﻿nxbac‣ecount: 1.70
+ecount.pas
+"C:\Program Files\Themis\fpc\bin\i386-win32\fpc.exe" -o"ecount.exe" -O2 -XS -Sg -Cs66060288 "ecount.pas"|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom14944\
+Free Pascal Compiler version 3.0.4 [2017/10/06] for i386
+Copyright (c) 1993-2017 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling ecount.pas
+Linking ecount.exe
+13 lines compiled, 0.1 sec, 27776 bytes code, 1268 bytes data
+Dịch thành công.
+
+nxbac‣ecount‣Test01: 0.10
+Thời gian ≈ 0.303143800 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test02: 0.10
+Thời gian ≈ 0.123239500 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test03: 0.10
+Thời gian ≈ 0.281935000 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test04: 0.10
+Thời gian ≈ 0.111231000 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test05: 0.10
+Thời gian ≈ 0.103503900 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test06: 0.10
+Thời gian ≈ 0.142827300 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test07: 0.10
+Thời gian ≈ 0.240009800 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test08: 0.10
+Thời gian ≈ 0.149645400 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test09: 0.10
+Thời gian ≈ 0.118601900 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test10: 0.10
+Thời gian ≈ 0.111472400 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test11: 0.10
+Thời gian ≈ 0.218577900 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test12: 0.10
+Thời gian ≈ 0.164602200 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test13: 0.10
+Thời gian ≈ 0.138188400 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test14: 0.10
+Thời gian ≈ 0.159167100 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test15: 0.10
+Thời gian ≈ 0.148543300 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test16: 0.00
+Chạy quá thời gian
+nxbac‣ecount‣Test17: 0.00
+Chạy quá thời gian
+nxbac‣ecount‣Test18: 0.10
+Thời gian ≈ 0.972406600 giây
+Kết quả khớp đáp án!
+nxbac‣ecount‣Test19: 0.00
+Chạy quá thời gian
+nxbac‣ecount‣Test20: 0.10
+Thời gian ≈ 0.893402000 giây
+Kết quả khớp đáp án!

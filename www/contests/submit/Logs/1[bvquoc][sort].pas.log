@@ -1,0 +1,68 @@
+﻿bvquoc‣sort: 1.50
+sort.pas
+"C:\Program Files\Themis\fpc\bin\i386-win32\fpc.exe" -o"sort.exe" -O2 -XS -Sg -Cs66060288 "sort.pas"|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom55994\
+Free Pascal Compiler version 3.0.4 [2017/10/06] for i386
+Copyright (c) 1993-2017 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling sort.pas
+sort.pas(12,22) Warning: Variable "cnt" does not seem to be initialized
+Linking sort.exe
+22 lines compiled, 0.1 sec, 27840 bytes code, 1268 bytes data
+1 warning(s) issued
+Dịch thành công.
+
+bvquoc‣sort‣Test01: 0.10
+Thời gian ≈ 0.112352000 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test02: 0.10
+Thời gian ≈ 0.101268100 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test03: 0.10
+Thời gian ≈ 0.134457700 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test04: 0.10
+Thời gian ≈ 0.147269300 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test05: 0.10
+Thời gian ≈ 0.163655900 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test06: 0.10
+Thời gian ≈ 0.150717400 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test07: 0.10
+Thời gian ≈ 0.151257800 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test08: 0.10
+Thời gian ≈ 0.177156700 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test09: 0.10
+Thời gian ≈ 0.124795400 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test10: 0.10
+Thời gian ≈ 0.148070400 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test11: 0.10
+Thời gian ≈ 0.151546900 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test12: 0.10
+Thời gian ≈ 0.227617100 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test13: 0.10
+Thời gian ≈ 0.119277600 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test14: 0.10
+Thời gian ≈ 0.141901800 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test15: 0.10
+Thời gian ≈ 0.139399900 giây
+Kết quả khớp đáp án!
+bvquoc‣sort‣Test16: 0.00
+Chạy quá thời gian
+bvquoc‣sort‣Test17: 0.00
+Chạy quá thời gian
+bvquoc‣sort‣Test18: 0.00
+Chạy quá thời gian
+bvquoc‣sort‣Test19: 0.00
+Chạy quá thời gian
+bvquoc‣sort‣Test20: 0.00
+Chạy quá thời gian

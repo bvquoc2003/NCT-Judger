@@ -1,0 +1,39 @@
+﻿bvquoc‣sumquery: 0.80
+sumquery.pas
+"C:\Program Files\Themis\fpc\bin\i386-win32\fpc.exe" -o"sumquery.exe" -O2 -XS -Sg -Cs66060288 "sumquery.pas"|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom62501\
+Free Pascal Compiler version 3.0.4 [2017/10/06] for i386
+Copyright (c) 1993-2017 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling sumquery.pas
+Linking sumquery.exe
+18 lines compiled, 0.1 sec, 28016 bytes code, 1268 bytes data
+Dịch thành công.
+
+bvquoc‣sumquery‣Test01: 0.10
+Thời gian ≈ 0.086534600 giây
+Kết quả khớp đáp án!
+bvquoc‣sumquery‣Test02: 0.10
+Thời gian ≈ 0.137718900 giây
+Kết quả khớp đáp án!
+bvquoc‣sumquery‣Test03: 0.10
+Thời gian ≈ 0.180642000 giây
+Kết quả khớp đáp án!
+bvquoc‣sumquery‣Test04: 0.10
+Thời gian ≈ 0.106533500 giây
+Kết quả khớp đáp án!
+bvquoc‣sumquery‣Test05: 0.10
+Thời gian ≈ 0.212541100 giây
+Kết quả khớp đáp án!
+bvquoc‣sumquery‣Test06: 0.10
+Thời gian ≈ 0.740287800 giây
+Kết quả khớp đáp án!
+bvquoc‣sumquery‣Test07: 0.00
+Chạy quá thời gian
+bvquoc‣sumquery‣Test08: 0.00
+Chạy quá thời gian
+bvquoc‣sumquery‣Test09: 0.10
+Thời gian ≈ 0.500242500 giây
+Kết quả khớp đáp án!
+bvquoc‣sumquery‣Test10: 0.10
+Thời gian ≈ 0.494650700 giây
+Kết quả khớp đáp án!

@@ -1,0 +1,68 @@
+﻿tvhson‣ecount: 1.70
+ecount.pas
+"C:\Program Files\Themis\fpc\bin\i386-win32\fpc.exe" -o"ecount.exe" -O2 -XS -Sg -Cs66060288 "ecount.pas"|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom59716\
+Free Pascal Compiler version 3.0.4 [2017/10/06] for i386
+Copyright (c) 1993-2017 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling ecount.pas
+Linking ecount.exe
+13 lines compiled, 0.1 sec, 27776 bytes code, 1268 bytes data
+Dịch thành công.
+
+tvhson‣ecount‣Test01: 0.10
+Thời gian ≈ 0.153313400 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test02: 0.10
+Thời gian ≈ 0.110968200 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test03: 0.10
+Thời gian ≈ 0.107835300 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test04: 0.10
+Thời gian ≈ 0.231169000 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test05: 0.10
+Thời gian ≈ 0.102493500 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test06: 0.10
+Thời gian ≈ 0.096368100 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test07: 0.10
+Thời gian ≈ 0.100957800 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test08: 0.10
+Thời gian ≈ 0.095711500 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test09: 0.10
+Thời gian ≈ 0.115198800 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test10: 0.10
+Thời gian ≈ 0.102634400 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test11: 0.10
+Thời gian ≈ 0.107834300 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test12: 0.10
+Thời gian ≈ 0.121667900 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test13: 0.10
+Thời gian ≈ 0.152818300 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test14: 0.10
+Thời gian ≈ 0.097811900 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test15: 0.10
+Thời gian ≈ 0.099121800 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test16: 0.00
+Chạy quá thời gian
+tvhson‣ecount‣Test17: 0.00
+Chạy quá thời gian
+tvhson‣ecount‣Test18: 0.10
+Thời gian ≈ 0.800464700 giây
+Kết quả khớp đáp án!
+tvhson‣ecount‣Test19: 0.00
+Chạy quá thời gian
+tvhson‣ecount‣Test20: 0.10
+Thời gian ≈ 0.663725400 giây
+Kết quả khớp đáp án!

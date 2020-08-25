@@ -1,0 +1,81 @@
+﻿tvhson‣tonguoc: 2.00
+tonguoc.pas
+"C:\Program Files\Themis\fpc\bin\i386-win32\fpc.exe" -o"tonguoc.exe" -O2 -XS -Sg -Cs66060288 "tonguoc.pas"|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom10341\
+Free Pascal Compiler version 3.0.4 [2017/10/06] for i386
+Copyright (c) 1993-2017 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling tonguoc.pas
+Linking tonguoc.exe
+11 lines compiled, 0.2 sec, 32928 bytes code, 3236 bytes data
+Dịch thành công.
+
+tvhson‣tonguoc‣Test01: 0.10
+Thời gian ≈ 0.086894000 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test02: 0.10
+Thời gian ≈ 0.104756500 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test03: 0.10
+Thời gian ≈ 0.079430800 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test04: 0.10
+Thời gian ≈ 0.083421900 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test05: 0.10
+Thời gian ≈ 0.085279500 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test06: 0.10
+Thời gian ≈ 0.080467000 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test07: 0.10
+Thời gian ≈ 0.080035300 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test08: 0.10
+Thời gian ≈ 0.088081200 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test09: 0.10
+Thời gian ≈ 0.077042400 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test10: 0.10
+Thời gian ≈ 0.079658100 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test11: 0.10
+Thời gian ≈ 0.088920200 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test12: 0.10
+Thời gian ≈ 0.093439100 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test13: 0.10
+Thời gian ≈ 0.093584700 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test14: 0.10
+Thời gian ≈ 0.094638500 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test15: 0.10
+Thời gian ≈ 0.091502400 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test16: 0.10
+Thời gian ≈ 0.091146000 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test17: 0.10
+Thời gian ≈ 0.112373800 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test18: 0.10
+Thời gian ≈ 0.092799300 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test19: 0.10
+Thời gian ≈ 0.093623800 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test20: 0.10
+Thời gian ≈ 0.091255900 giây
+Kết quả khớp đáp án!
+tvhson‣tonguoc‣Test21: 0.00
+Chạy quá thời gian
+tvhson‣tonguoc‣Test22: 0.00
+Chạy quá thời gian
+tvhson‣tonguoc‣Test23: 0.00
+Chạy quá thời gian
+tvhson‣tonguoc‣Test24: 0.00
+Chạy quá thời gian
+tvhson‣tonguoc‣Test25: 0.00
+Chạy quá thời gian

@@ -1,0 +1,85 @@
+﻿ntanh‣TongUoc: 2.00
+TongUoc.pas
+"C:\Program Files\Themis\fpc\bin\i386-win32\fpc.exe" -o"TongUoc.exe" -O2 -XS -Sg -Cs66060288 "TongUoc.pas"|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom16649\
+Free Pascal Compiler version 3.0.4 [2017/10/06] for i386
+Copyright (c) 1993-2017 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling TongUoc.pas
+TongUoc.pas(7,24) Warning: Variable "s" does not seem to be initialized
+Linking TongUoc.exe
+8 lines compiled, 0.1 sec, 28032 bytes code, 1268 bytes data
+1 warning(s) issued
+Dịch thành công.
+
+ntanh‣TongUoc‣Test01: 0.10
+Thời gian ≈ 0.100281400 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test02: 0.10
+Thời gian ≈ 0.083458000 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test03: 0.10
+Thời gian ≈ 0.088927100 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test04: 0.10
+Thời gian ≈ 0.088230000 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test05: 0.10
+Thời gian ≈ 0.081874200 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test06: 0.10
+Thời gian ≈ 0.083179000 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test07: 0.10
+Thời gian ≈ 0.082405700 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test08: 0.10
+Thời gian ≈ 0.082804400 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test09: 0.10
+Thời gian ≈ 0.082496900 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test10: 0.10
+Thời gian ≈ 0.085996000 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test11: 0.10
+Thời gian ≈ 0.098648100 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test12: 0.10
+Thời gian ≈ 0.102479700 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test13: 0.10
+Thời gian ≈ 0.091016800 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test14: 0.10
+Thời gian ≈ 0.099087100 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test15: 0.10
+Thời gian ≈ 0.100832600 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test16: 0.10
+Thời gian ≈ 0.088934800 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test17: 0.10
+Thời gian ≈ 0.096167800 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test18: 0.10
+Thời gian ≈ 0.094849200 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test19: 0.10
+Thời gian ≈ 0.108304600 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test20: 0.10
+Thời gian ≈ 0.097979700 giây
+Kết quả khớp đáp án!
+ntanh‣TongUoc‣Test21: 0.00
+Chạy quá thời gian
+ntanh‣TongUoc‣Test22: 0.00
+Thời gian ≈ 0.093587900 giây
+Kết quả KHÁC đáp án!
+ntanh‣TongUoc‣Test23: 0.00
+Thời gian ≈ 0.090303500 giây
+Kết quả KHÁC đáp án!
+ntanh‣TongUoc‣Test24: 0.00
+Chạy quá thời gian
+ntanh‣TongUoc‣Test25: 0.00
+Chạy quá thời gian
