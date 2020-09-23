@@ -29,13 +29,13 @@ if (file_exists($file) && is_readable($file)){     // Check file
 ?>
 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<title>Uniform Server ZeroXIII - test page</title>
-<meta name="Description" content="The Uniform Server ZeroXIII 13.3.1" />
-<meta name="Keywords" content="The Uniform Server, MPG, Mike, Ric, UniServer, Olajide, BobS " />
+<title>Uniform Server ZeroXIV - test page</title>
+<meta name="Description" content="The Uniform Server ZeroXIV" />
+<meta name="Keywords" content="The Uniform Server, MPG, Mike, Ric, UniServer, Olajide, BobS, SudeepJD, BrainStorm " />
 <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
 </head>
 
@@ -58,10 +58,10 @@ if (file_exists($file) && is_readable($file)){     // Check file
 
 <div id="wrap">
   <div id="header">
-     <a href="http://www.uniformserver.com"><img src="images/logo.png" align="left" alt="The Uniform Server ZeroXIII" /></a>
+     <a href="http://www.uniformserver.com"><img src="images/logo.png" align="left" alt="The Uniform Server Zero" /></a>
        <div id="header_txt" >
          <div style="position:absolute;">
-             ZeroXIII <?php print "- ".$version; ?></p>
+             ZeroXIV <?php print "- ".$version; ?></p>
          </div>
        </div>
   </div>

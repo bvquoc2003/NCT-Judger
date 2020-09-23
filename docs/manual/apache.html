@@ -108,7 +108,7 @@
 <p><b>Note 1:</b> For new port to become effective you must restart the servers.</p>
 
 <p><i>General Notes</i>:</p>
-<p>The Uniform Server Zero XIII sets port environment variables AP_PORT and AP_SSL_PORT and updates the user configuration file user_configuration.bat. Environment variables are used in the following Apache configuration files:</p>
+<p>The Uniform Server Zero sets port environment variables AP_PORT and AP_SSL_PORT and updates the user configuration file user_configuration.bat. Environment variables are used in the following Apache configuration files:</p>
 
 <p><b><i>Apache standard port</i></b> <code>${AP_PORT}</code></p>
 <ul>
@@ -127,7 +127,7 @@
 <a name="Change Apache Root-folders"></a>
 <h2>Change Apache Root-folders</h2>
 
-<p>All public pages are served from a root folder; Uniform Server Zero XIII default is folder UniServerZ\<b>www</b> (Note also known as <b>htdocs</b> in a Unix environment). This root folder is the main servers root folder, Vhosts have their own unique root folder not covered here.</p>
+<p>All public pages are served from a root folder; Uniform Server Zero default is folder UniServerZ\<b>www</b> (Note also known as <b>htdocs</b> in a Unix environment). This root folder is the main servers root folder, Vhosts have their own unique root folder not covered here.</p>
 
 <p>The Uniform Server has a predefined folder (ssl root folder) that is reserved for https access. Secure pages are pages served from this root folder.</p>
 
@@ -231,7 +231,7 @@
 <h2>Apache SSL</h2>
 <p>Secure Sockets Layer (SSL) offers privacy for client-server communication. SSL establishes an encrypted tunnel using cryptography algorithms and keys through which other protocols such as HTTP are transported.</p>
 
-<p>By default, The Uniform Server Zero XIII installation has SSL disabled, for the reason of security. A certificate/key pair are required and must be unique to the particular server. After creating a new server certificate/key pair, SSL is automatically enabled in Apache's configuration file.</p>
+<p>By default, The Uniform Server Zero installation has SSL disabled, for the reason of security. A certificate/key pair are required and must be unique to the particular server. After creating a new server certificate/key pair, SSL is automatically enabled in Apache's configuration file.</p>
 
 <p><b><i>Server Certificate and Key generator</i></b></p>
 <p class="access">Apache &gt; Apache SSL &gt; Server Certificate and Key generator</p>
@@ -270,7 +270,7 @@
 <script language="javascript" src="common/top.js"></script>
 <a name="Apache Vhosts"></a>
 <h2>Apache Vhosts</h2>
-<p>The Uniform Server Zero XIII is configured for name-based virtual hosting. This allows you to run any number of web sites from a single IP address. </p>
+<p>The Uniform Server Zero is configured for name-based virtual hosting. This allows you to run any number of web sites from a single IP address. </p>
 
 <p><b><i>Create Apache Vhost</i>:</b></p>
 <p>This sub-menu allows you to quickly create a virtual host.</p>

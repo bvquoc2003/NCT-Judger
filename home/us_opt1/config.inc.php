@@ -110,7 +110,7 @@ $cfg['MaxRows']               = 300;    // maximum number of rows to display
 
 $cfg['Export']['asfile']                    = TRUE;
 $cfg['Export']['onserver']                  = TRUE;
-$cfg['Export']['file_template_table']       = '__TABLE__-tabel_%Y-%m-%d';
+$cfg['Export']['file_template_table']       = '__TABLE__-table_%Y-%m-%d';
 $cfg['Export']['file_template_database']    = '__DB__-db_%Y-%m-%d';
 $cfg['Export']['file_template_server']      = '__SERVER__-mysql_%Y-%m-%d';
 
@@ -119,5 +119,3 @@ $cfg['Export']['csv_enclosed']              = '&quot;';
 $cfg['Export']['sql_if_not_exists']         = FALSE;
 $cfg['Export']['sql_columns']               = FALSE;
 $cfg['Export']['sql_extended']              = FALSE;
-
-

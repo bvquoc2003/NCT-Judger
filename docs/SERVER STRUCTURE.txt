@@ -62,33 +62,6 @@ UniServerZ\core\openssl
     Apache_enable_ssl.bat            - Enable SSL in Apache config
     Apache_disable_ssl.bat           - Disable SSL in Apache config
 
-UniServerZ\core\php53
-  Contains PHP program and configuration files:
-    php_development.ini
-    php_production.ini
-    php_test.ini
-    php-cli.ini
-UniServerZ\core\php53\extensions
-  Contains supported extensions
-
-UniServerZ\core\php54
-  Contains PHP program and configuration files:
-    php_development.ini
-    php_production.ini
-    php_test.ini
-    php-cli.ini
-UniServerZ\core\php54\extensions
-  Contains supported extensions
-
-UniServerZ\core\php55
-  Contains PHP program and configuration files:
-    php_development.ini
-    php_production.ini
-    php_test.ini
-    php-cli.ini
-UniServerZ\core\php55\extensions
-  Contains supported extensions
-
 UniServerZ\core\php56
   Contains PHP program and configuration files:
     php_development.ini
@@ -114,6 +87,33 @@ UniServerZ\core\php71
     php_test.ini
     php-cli.ini
 UniServerZ\core\php71\extensions
+  Contains supported extensions
+
+UniServerZ\core\php72
+  Contains PHP program and configuration files:
+    php_development.ini
+    php_production.ini
+    php_test.ini
+    php-cli.ini
+UniServerZ\core\php72\extensions
+  Contains supported extensions
+
+UniServerZ\core\php73
+  Contains PHP program and configuration files:
+    php_development.ini
+    php_production.ini
+    php_test.ini
+    php-cli.ini
+UniServerZ\core\php73\extensions
+  Contains supported extensions
+
+UniServerZ\core\php74
+  Contains PHP program and configuration files:
+    php_development.ini
+    php_production.ini
+    php_test.ini
+    php-cli.ini
+UniServerZ\core\php74\extensions
   Contains supported extensions
 
 UniServerZ\service_back_ap
@@ -174,7 +174,6 @@ UniServerZ\home\us_pac
 
 UniServerZ\home\us_splash
   Optional initial opening page (/us_splash/) 
-  Reference page us_zero_ref.html
 
 UniServerZ\htpasspwd
   Uniform Server HTPASSWD dirctory
@@ -209,7 +208,7 @@ UniServerZ\www\css
 
 
 -------------------------------------------------------------------------------
-         Copyright 2002-2016 The Uniform Server Development Team
+         Copyright 2002-2019 The Uniform Server Development Team
                         All rights reserved.
 
 The authors were trying to make the best product so they cannot be held responsible

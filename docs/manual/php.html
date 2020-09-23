@@ -49,7 +49,7 @@
        </tr>
        <tr>
          <td><a href="#Select PHP version" >Select PHP version</a></td>
-         <td>- Versions 53, 54, 55, 56, 70 or 71</td>
+         <td>- Versions 56, 70, 71, 72, 73</td>
        </tr>
        <tr>
          <td><a href="#Select PHP configuration file" >Select PHP configuration file</a> </td>
@@ -79,7 +79,7 @@
  </div>
 </div>
 
-<p><b>Note 1:</b> A default installation of Uniform Server ZeroXIII installs PHP as an Apache module.<br />
+<p><b>Note 1:</b> A default installation of Uniform Server Zero installs PHP as an Apache module.<br />
 <b>Note 2:</b> PHP Net decided to skip PHP version 6.0</p>
 
 <a name="View phpInfo"></a>
@@ -110,7 +110,7 @@
 <a name="Select PHP version"></a>
 <h2>Select PHP version</h2>
 
-<p>The Uniform Server Zero XIII provides switching between PHP versions 5.3, 5.4, 5.5, 5.6, 7.0 or 7.1 to achieve this you need to download a suitable PHP plugin for each version (for example ZeroXIII_php_5_3_29_h.exe, ZeroXIII_php_5_4_45_h.exe, ZeroXIII_php_5_5_37_h.exe, ZeroXIII_php_5_6_23_h.exe, ZeroXIII_php_7_0_8_h.exe and ZeroXIII_php_7_1_0_h.exe).</p>
+<p>The Uniform Server Zero provides switching between PHP versions 5.6, 7.0, 7.1, 7.2 or 7.3 to achieve this you need to download a suitable PHP plugin for each version.</p>
 
 <p class="access">PHP &gt; Select PHP version</p>
 
@@ -143,7 +143,7 @@
 <a name="Select PHP configuration file"></a>
 <h2>Select PHP configuration file</h2>
 
-<p>The Uniform Server Zero XIII provides switching between PHP configuration files php_test.ini, php_development.ini and  php_production.ini</p>
+<p>The Uniform Server Zero provides switching between PHP configuration files php_test.ini, php_development.ini and  php_production.ini</p>
 
 <p class="access">PHP &gt; PHP configuration file</p>
 
@@ -168,7 +168,7 @@
 
 
 <p>Note:<br />
-In the following <b>xxx</b> represents the PHP series selected either php53, php54, php55, php56, php70 or php71 (covered above). </p>
+In the following <b>xxx</b> represents the PHP series selected either php56, php70, php71, php72 or php73 (covered above). </p>
 <p><b>Test Configuration file</b></p>
 
 <p class="access">PHP &gt; Select PHP configuration file &gt; php_test.ini</p>
@@ -284,9 +284,9 @@ File modified is the currently selected PHP configuration.</p>
 <a name="PHP Accelerators"></a>
 <h2>PHP Accelerators</h2>
 
-<p>The Uniform Server Zero XIII provides support for four PHP accelerators: eAccelerator, APC, Xcache and Zend OpCache. The following UniController sub-menu allows you to enable or disable these accelerators.</p>
+<p>The Uniform Server Zero provides support for the Zend OpCache PHP Accelerator. The following UniController sub-menu allows you to enable or disable it.</p>
 
-<p class="access">PHP &gt; PHP Accelerators </p>
+<p class="access">PHP &gt; Enable/Disable Zend OpCache Accelerator </p>
 
 <p><i>Note</i>: While Apache is running to prevent problems menu option is disabled (greyed out).</p>
 
@@ -296,20 +296,11 @@ File modified is the currently selected PHP configuration.</p>
   <td>
 <p><b><i>Selection</i>:</b></p>
       <ul>
-        <li>Click PHP Accelerator you wish to use A), B), C) or D).</li>
-        <li>Previous selection is deselected and new selection enabled.</li>
-        <li>Selected PHP Accelerator is indicated by a check marker for example D).</li>
+        <li>Enable or Disable Zend OpCache</li>
+        <li>When enabled the icon is highlighted D).</li>
       </ul>
 <p>Note 1: For the new settings to become effective you must restart the Apache server.</p>
 <p>Note 2: A greyed out menu option indicates the accelerator is unavailable.</p>
-
-<ul>
-  <li>A) enables or disables eAccelerator. With the box checked, eAccelerator is enabled.</li>
-  <li>B) enables or disables APC. With the box checked, APC is enabled.</li>
-  <li>C) enables or disables Xcache. With the box checked, Xcache is enabled.</li>
-  <li>D) enables or disables Zend OptCache. With the box checked, Zend OptCache is enabled.</li>
-</ul>
-
   </td>
 
   <td>
@@ -335,50 +326,12 @@ File modified is the currently selected PHP configuration.</p>
  <tr valign="top">
   <td>
 
-<b><i>eAccelerator control panel</i>:</b>
-<p>eAccelerator is a free open-source PHP accelerator and optimizer. It increases the performance of PHP scripts by caching them in their compiled state, so that the overhead of compiling is almost completely eliminated.</p>
-
-<p>The Uniform Server Zero default installation has eAccelerator <b>disabled</b>.</p>
-
-<p>The eAccelerator control panel is shown on the right.</p>
-
-  </td>
-
-  <td>
-   <img src="images/C11_php_eaccelerator_con_1.gif" alt="eAccelerator control panel" />
-  </td>
- </tr>
-</table>
-
-
-<table>
- <tr valign="top">
-  <td>
-
-<b><i>APC control panel</i>:</b>
-<p>The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. It is a robust framework for caching and optimizing PHP intermediate code.</p>
-<p>The Uniform Server Zero default installation has APC <b>disabled</b>.</p>
-<p>The APC control panel is shown on the right.</p>
-
-  </td>
-
-  <td>
-   <img src="images/C11_php_apc_con_1.gif" alt="APC control panel" />
-  </td>
- </tr>
-</table>
-
-
-<table>
- <tr valign="top">
-  <td>
-
-<b><i>Zend OptCache</i>:</b>
-<p>Zend OptCache provides faster PHP execution through opcode caching and optimization. It improves PHP performance by storing precompiled script
+<b><i>Zend OpCache</i>:</b>
+<p>Zend OpCache provides faster PHP execution through opcode caching and optimization. It improves PHP performance by storing precompiled script
 bytecode in the shared memory.</p>
-<p>The Uniform Server Zero default installation has Zend OptCache <b>disabled</b>.</p>
+<p>The Uniform Server Zero default installation has Zend OpCache <b>disabled</b>.</p>
 
-<p>The Zend OptCache control panel is shown on the right.</p>
+<p>The Zend OpCache control panel is shown on the right.</p>
 
   </td>
 

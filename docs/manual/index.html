@@ -3,8 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
   <title>Home Uniform Server Zero</title>
-  <meta name="Description" content="Welcome to The Uniform Server and this documentation, which is for the Zero XIII series. The Uniform Server is a free and open source Windows Apache-MySQL-PHP-Perl server suite." />
-  <meta name="Keywords" content="Uniform,Server,Zero,XIII,Background,Installation,Controller,Plugins,The Uniform Server, MPG, Mike Gleaves, Ric, UniServer, Olajide, BobS " />
+  <meta name="Description" content="Welcome to The Uniform Server and this documentation, which is for the Zero XIV series. The Uniform Server is a free and open source Windows Apache-MySQL-PHP-Perl server suite." />
+  <meta name="Keywords" content="Uniform,Server,Zero,XIV,Background,Installation,Controller,Plugins,The Uniform Server, MPG, Mike Gleaves, Ric, UniServer, Olajide, BobS, SudeepJD, BrainStorm " />
   <link href="common/css/main.css" rel="stylesheet" type="text/css">
   <link href="common/css/menu.css" rel="stylesheet" type="text/css">
 </head>
@@ -34,11 +34,11 @@
   <img src="common/images/zero_logo4.png" alt="Zero logo" />
  </td>
  <td>
-<h1>The Uniform Server Zero XIII</h1>
+<h1>The Uniform Server Zero XIV</h1>
 </tr>
 </table>
 
-<p>Welcome to The Uniform Server and this documentation, which is for the Zero series. The Uniform Server is a free and open source Windows Apache-MySQL-PHP-Perl server suite. The Uniform Server is an excellent system for both beginning webmasters and experienced developers. It is a full-power web-server suitable for production use, but small enough to carry on a USB memory stick, or even a camera's flash drive. Covered in this document is the pre-configured server (UniServer Zero 13_x_x_ZeroXIII) and modules required to assemble your own bespoke server.</p>
+<p>Welcome to The Uniform Server and this documentation, which is for the Zero series. The Uniform Server is a free and open source Windows Apache-MySQL-PHP-Perl server suite. The Uniform Server is an excellent system for both beginning webmasters and experienced developers. It is a full-power web-server suitable for production use, but small enough to carry on a USB memory stick, or even a camera's flash drive. Covered in this document is the pre-configured server (UniServer Zero 14_x_x_ZeroXIV) and modules required to assemble your own bespoke server.</p>
 
 <table>
 <tr>
@@ -79,7 +79,7 @@
 <h2>Background</h2>
 <p>Uniform Zero takes a fresh look at Apache, MySQL, PHP and Perl portability. Uniform server has been redesigned from the ground up; emphasis is given to reducing code size. This is achieved through a modular implementation using plugins. Install only the plugins you require this avoids the dreaded bloat-ware scenario. Server control is provided by UniController a Pascal application written and compiled using Lazarus.</p>
 
-<p>For new users creating a bespoke server can be daunting to address this UniServer Zero releases 13_x_x_ZeroXIII are versions with pre-installed Zero XIII modules (plugins) producing a standard WAMP (Windows, Apache, MySQL and PHP) server package. This package is fully portable allowing you to run servers from a USB memory stick.</p>
+<p>For new users creating a bespoke server can be daunting to address this UniServer Zero releases 14_x_x_ZeroXIV are versions with pre-installed Zero XIV modules (plugins) producing a standard WAMP (Windows, Apache, MySQL and PHP) server package. This package is fully portable allowing you to run servers from a USB memory stick.</p>
 
 
 <p>In the context of this documentation portability is defined as an application that does not install data in the registry on a host PC. Generally applications ported to Windows from a Unix environment are inherently portable for example Apache, MySQL, PHP and Perl. These require just a few minor tweaks to run them in a portable mode</p>
@@ -101,7 +101,7 @@ folder structure. To install the pre-configured server proceed as follows:</p>
 <tr valign="top">
 <td>
 <ul>
-  <li> Download and save the latest server file (for example 13_0_0_ZeroXIII.exe) to drive C:</li>
+  <li> Download and save the latest server file (for example 13_0_0_ZeroXIV.exe) to drive C:</li>
   <li> The file is a self-extracting archive, double click to run the  extractor.</li>
   <li> A new folder <b>UniServerZ</b> is created containing UniController.exe and support folders and files.</li>
   <li> Start controller by double clicking on file <b>UniController.exe</b> </li>
@@ -142,7 +142,7 @@ folder structure. Unlike a pre-configured server a bespoke server requires more 
 <td>
 <i>Install controller:</i>
 <ul>
-  <li> Download and save the latest controller file (ZeroXIII_controller_2_2_0.exe) to either a new folder or top-level of a drive for example C: drive.</li>
+  <li> Download and save the latest controller file (ZeroXIV_controller_2_3_0.exe) to either a new folder or top-level of a drive for example C: drive.</li>
   <li> The file is a self-extracting archive, double click to run the  extractor.</li>
   <li> A new folder <b>UniServerZ</b> is created containing the controller application UniController.exe and support folders and files.</li>
   <li> Download and save any plugins (modules) to folder UniServerZ again these are self-extracting archives, double click to run extractor, if prompted allow overwrite.</li>
@@ -170,7 +170,7 @@ folder structure. Unlike a pre-configured server a bespoke server requires more 
 
 <ul>
   <li> If running, stop Apache and MySQL servers. <b>Close</b> UniController. </li>
-  <li> Download required plugin installation file. For example ZeroXIII_phpmyadmin_4_6_3.exe installs phpMyAdmin. </li>
+  <li> Download required plugin installation file. For example ZeroXIV_phpmyadmin_4_6_3.exe installs phpMyAdmin. </li>
   <li> Save the downloaded file to folder <b>UniServerZ</b>. </li>
   <li> Double click on the above installation file.  This runs the self extracting archive. </li>
   <li> If prompted allow overwriting of existing files. </li>
@@ -216,15 +216,15 @@ folder structure. Unlike a pre-configured server a bespoke server requires more 
 
 <p>This section covers the basics a new user should be aware of.</p>
 
-<p><b>Note:</b> Uniform Server 13_0_0_ZeroXIII does not run on XP or 2003.</P>
+<p><b>Note:</b> Uniform Server 14_0_0_ZeroXIV does not run on XP or 2003.</P>
 
 <a name="VC14 Libraries"></a>
 <h3>VC14 Libraries</h3>
 
-<p>Apache and PHP 7.*.* binaries are compiled with VC14 ensure you have installed the Visual C++ Redistributable for Visual Studio 2015 : vc_redist_x64/86.exe<br />
+<p>Apache and PHP 7.*.* binaries are compiled with VC15 ensure you have installed the Visual C++ Redistributable for Visual Studio 2015 : vc_redist_x64/86.exe<br />
 This can be found at <a href=https://www.microsoft.com/en-us/download/details.aspx?id=49984>Visual C++ Redistributable for Visual Studio 2015 Update 1</a>.<br />
 Be sure to select the package appropriate for your OS and hardware (Select: vc_redist.x86.exe).<br />
-If you do not have the VC14 library, when you attempt to start the servers, you will get a runtime error popup.</p>
+If you do not have the VC15 library, when you attempt to start the servers, you will get a runtime error popup.</p>
 
 
 <a name="MySQL Access"></a>

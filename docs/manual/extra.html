@@ -44,7 +44,6 @@
  <div id="page_links_menu" >
 
    <table border="0">
-       <tr><td><a href="#extra_dtdns" >DtDNS</a></td>                      <td>- Convert a dynamic IP address to a static IP address using DtDNS service</td></tr>
        <tr><td><a href="#PC-Win start-up" >PC-Win start-up</a></td>        <td>- Automatically run UniController and servers (Apache, MySQL) at start-up</td></tr>
        <tr><td><a href="#extra_cron" >Cron</a></td>                        <td>- Cron is a job scheduler allowing scripts to be run automatically.</td></tr>
        <tr><td><a href="#Edit Win hosts file" >Edit Win hosts file</a></td><td>- View or edit Windows host file.</td></tr>
@@ -52,51 +51,6 @@
 
  </div>
 </div>
-
-<a name="extra_dtdns"></a>
-<h2>DtDNS</h2>
-
-<p>The Uniform Server Zero supports the DtDNS service by integrating a simple function to automatically update hostname IP address at DtDNS. The function is configurable, allowing you to update all five free hostnames. The function can optionally be run by Cron, making the whole task transparent.</p>
-
-
-<table>
-<tr valign="top">
-
-<td>
-<p>Add or edit DtDNS service account. Open the DtDNS Controller and add or modify your DtDNS account as follows:</p>
-<p class="access">Extra &gt; DtDNS</p>
-
-<ul>
-  <li>1) Enter upto five domain names as configuraed at DtDNS.
-   <ul><li>Minimum of one domain name is required.</li></ul>
-  </li>
-  <li>2) Enter your DtDNS account password.</li>
-  <li>3) Click <b>Save Changes</b>.
-    <ul><li>Data entered is saved to a configuration file.</li></ul>
-  </li>
-  <li>6) Check the <b>Auto-run</b> check box.
-    <ul>
-        <li>Checked. Automatically update DtDNS accounts when UniCotroller is started. Disables Accounts section</li>
-        <li>UnChecked. Disable automatic DtDNS update and enable Accounts section.</li>
-   </ul>
-  </li>
-</ul>
-
-<p><b><i>Note</i> 1:</b>  With configured accounts initially opening the DtDNS updater client buttons are greyed out until the refresh button is clicked. This forces user to manually refresh.</p>
-
-<p><b><i>Note</i> 2:</b> Full DtDNS details; see pages
- <a href="extra_dtdns.html">DtDNS</a> and 
- <a href="extra_dtdns_account.html">Create DtDNS Account</a></p>
-
-
-</td>
-<td>
-<img src="images/C11_dtdns_controller.gif" alt="DtDNS controller">
-</td>
-</tr>
-</table>
-
-
 
 <script language="javascript" src="common/top.js"></script>
 <a name="PC-Win start-up"></a>
