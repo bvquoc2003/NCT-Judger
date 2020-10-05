@@ -1,0 +1,65 @@
+﻿bvquoc‣POLE2: 1.40
+POLE2.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "POLE2.cpp" -pipe -O2 -s -static -lm -x c++ -o"POLE2.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom37962\
+Dịch thành công.
+
+bvquoc‣POLE2‣Test01: 0.00
+Thời gian ≈ 0.040834800 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test02: 0.35
+Thời gian ≈ 0.036888100 giây
+Kết quả khớp đáp án!
+bvquoc‣POLE2‣Test03: 0.35
+Thời gian ≈ 0.034253000 giây
+Kết quả khớp đáp án!
+bvquoc‣POLE2‣Test04: 0.35
+Thời gian ≈ 0.035631700 giây
+Kết quả khớp đáp án!
+bvquoc‣POLE2‣Test05: 0.35
+Thời gian ≈ 0.036773500 giây
+Kết quả khớp đáp án!
+bvquoc‣POLE2‣Test06: 0.00
+Thời gian ≈ 0.040735000 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test07: 0.00
+Thời gian ≈ 0.042476100 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test08: 0.00
+Thời gian ≈ 0.037396700 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test09: 0.00
+Thời gian ≈ 0.037762000 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test10: 0.00
+Thời gian ≈ 0.050646100 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test11: 0.00
+Thời gian ≈ 0.037591600 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test12: 0.00
+Thời gian ≈ 0.044351100 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test13: 0.00
+Thời gian ≈ 0.051014900 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test14: 0.00
+Thời gian ≈ 0.043069600 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test15: 0.00
+Thời gian ≈ 0.041167000 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test16: 0.00
+Thời gian ≈ 0.036328400 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test17: 0.00
+Thời gian ≈ 0.042953600 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test18: 0.00
+Thời gian ≈ 0.049440500 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test19: 0.00
+Thời gian ≈ 0.051974000 giây
+Kết quả KHÁC đáp án!
+bvquoc‣POLE2‣Test20: 0.00
+Thời gian ≈ 0.050082400 giây
+Kết quả KHÁC đáp án!

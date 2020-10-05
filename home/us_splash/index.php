@@ -23,7 +23,7 @@ if (file_exists($file) && is_readable($file)){   // Check file
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <title>Uniform Server ZeroXIV - Splash page</title>
-<meta name="Description" content="The Uniform Server ZeroXIV" />
+<meta name="Description" content="The Uniform Server ZeroXIV 14.0.1" />
 <meta name="Keywords" content="The Uniform Server,ZerXIV,MPG,Mike,Ric,UniServer,Olajide,BobS,SudeepJD,BrainStorm" />
 <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
 </head>
@@ -36,7 +36,7 @@ if (file_exists($file) && is_readable($file)){   // Check file
        <div id="header_txt2" >
          <div style="position:absolute;">
            <b>ZeroXIV <?php print "- ".$version; ?> </b><br />
-           Apache 2.4.43 VC15 <br />
+           Apache 2.4.41 VC15 <br />
            MySQL 8.0.18 <br />
            PHP 5.6,7.0,7.1,7.2, 7.3, 7.4
          </div>
@@ -54,7 +54,7 @@ if (file_exists($file) && is_readable($file)){   // Check file
 	<big><strong>Core</strong></big>
     <ul>
       <li> <b>UniController v2.3.0</b></li>
-	  <li> <b>Apache 2.4.43 VC15 openssl 1.1.1j</b></li>
+	  <li> <b>Apache 2.4.41 VC15 openssl 1.1.1j</b></li>
       <li> <b>OpenSSL/1.1.1j</b></li>
 	  <li> <b>Mail client for PHP - msmtp 1.4.32</b></li>
 	  <li> <b>Cron - Scheduler</b></li>
@@ -70,8 +70,8 @@ if (file_exists($file) && is_readable($file)){   // Check file
 	<br />
 	<big><strong>Database Admin and Backup</strong></big>
 	<ul>
-	  <li> <b>phpMyAdmin 5.0.2</b></li>
-	  <li> Adminer 4.7.6</li>
+	  <li> <b>phpMyAdmin 4.9.2</b></li>
+	  <li> Adminer 4.7.5</li>
 	  <li> phpMyBackupPro 2.5</li>
 	  <li> Sypex Dumper 2.0.11</li>
 	  <li> MySQL Autobackup 1.0</li>
@@ -84,9 +84,9 @@ if (file_exists($file) && is_readable($file)){   // Check file
 	<big><strong>PHP Version</strong></big>
 	<ul>
 	  <li> <b>PHP installed as Apache module</b></li>
-	  <li> <b>PHP v7.4.5</b></li>
-	  <li> PHP v7.3.17</li>
-	  <li> PHP v7.2.30</li>
+	  <li> <b>PHP v7.4.0</b></li>
+	  <li> PHP v7.3.12</li>
+	  <li> PHP v7.2.25</li>
 	  <li> PHP v7.1.33</li>
 	  <li> PHP v7.0.33</li>
 	  <li> PHP v5.6.30</li>

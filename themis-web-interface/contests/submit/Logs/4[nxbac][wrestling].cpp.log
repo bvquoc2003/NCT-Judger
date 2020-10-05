@@ -1,0 +1,305 @@
+﻿nxbac‣wrestling: 6.00
+wrestling.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "wrestling.cpp" -pipe -O2 -s -static -lm -x c++ -o"wrestling.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom56082\
+Dịch thành công.
+
+nxbac‣wrestling‣test01: 0.06
+Thời gian ≈ 0.201047800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test02: 0.06
+Thời gian ≈ 0.064118200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test03: 0.06
+Thời gian ≈ 0.052115800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test04: 0.06
+Thời gian ≈ 0.042799100 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test05: 0.06
+Thời gian ≈ 0.038954900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test06: 0.06
+Thời gian ≈ 0.042578700 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test07: 0.06
+Thời gian ≈ 0.036619900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test08: 0.06
+Thời gian ≈ 0.041150600 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test09: 0.06
+Thời gian ≈ 0.036833400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test10: 0.06
+Thời gian ≈ 0.041780400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test100: 0.06
+Thời gian ≈ 0.831405200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test11: 0.06
+Thời gian ≈ 0.073191400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test12: 0.06
+Thời gian ≈ 0.053365400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test13: 0.06
+Thời gian ≈ 0.041798500 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test14: 0.06
+Thời gian ≈ 0.043486800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test15: 0.06
+Thời gian ≈ 0.041658900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test16: 0.06
+Thời gian ≈ 0.044331400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test17: 0.06
+Thời gian ≈ 0.045754800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test18: 0.06
+Thời gian ≈ 0.077268000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test19: 0.06
+Thời gian ≈ 0.044896600 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test20: 0.06
+Thời gian ≈ 0.046024900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test21: 0.06
+Thời gian ≈ 0.046222400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test22: 0.06
+Thời gian ≈ 0.041573000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test23: 0.06
+Thời gian ≈ 0.037529900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test24: 0.06
+Thời gian ≈ 0.043864200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test25: 0.06
+Thời gian ≈ 0.157512200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test26: 0.06
+Thời gian ≈ 0.064388100 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test27: 0.06
+Thời gian ≈ 0.201112000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test28: 0.06
+Thời gian ≈ 0.224353500 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test29: 0.06
+Thời gian ≈ 0.043462600 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test30: 0.06
+Thời gian ≈ 0.040822000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test31: 0.06
+Thời gian ≈ 0.037894200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test32: 0.06
+Thời gian ≈ 0.039369800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test33: 0.06
+Thời gian ≈ 0.082721300 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test34: 0.06
+Thời gian ≈ 0.038778900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test35: 0.06
+Thời gian ≈ 0.040821100 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test36: 0.06
+Thời gian ≈ 0.055954700 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test37: 0.06
+Thời gian ≈ 0.049976300 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test38: 0.06
+Thời gian ≈ 0.039916000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test39: 0.06
+Thời gian ≈ 0.037857800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test40: 0.06
+Thời gian ≈ 0.045374200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test41: 0.06
+Thời gian ≈ 0.044692100 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test42: 0.06
+Thời gian ≈ 0.040678400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test43: 0.06
+Thời gian ≈ 0.044906200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test44: 0.06
+Thời gian ≈ 0.074497200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test45: 0.06
+Thời gian ≈ 0.039680500 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test46: 0.06
+Thời gian ≈ 0.047569700 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test47: 0.06
+Thời gian ≈ 0.036423900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test48: 0.06
+Thời gian ≈ 0.063901400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test49: 0.06
+Thời gian ≈ 0.043858400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test50: 0.06
+Thời gian ≈ 0.070018300 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test51: 0.06
+Thời gian ≈ 0.038546100 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test52: 0.06
+Thời gian ≈ 0.039667200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test53: 0.06
+Thời gian ≈ 0.042189500 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test54: 0.06
+Thời gian ≈ 0.046042200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test55: 0.06
+Thời gian ≈ 0.037806900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test56: 0.06
+Thời gian ≈ 0.041538400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test57: 0.06
+Thời gian ≈ 0.065235900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test58: 0.06
+Thời gian ≈ 0.217974600 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test59: 0.06
+Thời gian ≈ 0.056176600 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test60: 0.06
+Thời gian ≈ 0.058919000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test61: 0.06
+Thời gian ≈ 0.046620800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test62: 0.06
+Thời gian ≈ 0.069773200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test63: 0.06
+Thời gian ≈ 0.040768400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test64: 0.06
+Thời gian ≈ 0.069848300 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test65: 0.06
+Thời gian ≈ 0.061836700 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test66: 0.06
+Thời gian ≈ 0.048387100 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test67: 0.06
+Thời gian ≈ 0.060205800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test68: 0.06
+Thời gian ≈ 0.045846800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test69: 0.06
+Thời gian ≈ 0.065757300 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test70: 0.06
+Thời gian ≈ 0.120074800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test71: 0.06
+Thời gian ≈ 0.066754200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test72: 0.06
+Thời gian ≈ 0.057894900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test73: 0.06
+Thời gian ≈ 0.056161300 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test74: 0.06
+Thời gian ≈ 0.101925000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test75: 0.06
+Thời gian ≈ 0.057945300 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test76: 0.06
+Thời gian ≈ 0.063721500 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test77: 0.06
+Thời gian ≈ 0.054885300 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test78: 0.06
+Thời gian ≈ 0.056188500 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test79: 0.06
+Thời gian ≈ 0.049451500 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test80: 0.06
+Thời gian ≈ 0.053570300 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test81: 0.06
+Thời gian ≈ 0.051907900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test82: 0.06
+Thời gian ≈ 0.085072500 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test83: 0.06
+Thời gian ≈ 0.088961000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test84: 0.06
+Thời gian ≈ 0.140673400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test85: 0.06
+Thời gian ≈ 0.156138700 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test86: 0.06
+Thời gian ≈ 0.160443000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test87: 0.06
+Thời gian ≈ 0.230739400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test88: 0.06
+Thời gian ≈ 0.162527800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test89: 0.06
+Thời gian ≈ 0.206106800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test90: 0.06
+Thời gian ≈ 0.206080900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test91: 0.06
+Thời gian ≈ 0.278142900 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test92: 0.06
+Thời gian ≈ 0.350621200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test93: 0.06
+Thời gian ≈ 0.381206800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test94: 0.06
+Thời gian ≈ 0.456359200 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test95: 0.06
+Thời gian ≈ 0.732255800 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test96: 0.06
+Thời gian ≈ 0.621400000 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test97: 0.06
+Thời gian ≈ 0.856604700 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test98: 0.06
+Thời gian ≈ 0.703989400 giây
+Kết quả khớp đáp án!
+nxbac‣wrestling‣test99: 0.06
+Thời gian ≈ 0.803430000 giây
+Kết quả khớp đáp án!
