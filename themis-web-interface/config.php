@@ -1,8 +1,8 @@
 ﻿<?php
 	//Tên kỳ thi
-	$contestName = "Nguyen Chi Thanh Judger"; 
+	$contestName = "Nguyen Chi Thanh Online Judger"; 
 	//Mô tả kỳ thi
-	$description = "Resource: Bui Vi Quoc";
+	$description = "Informatics team of Nguyen Chi Thanh Gifted High School";
 	//footer
 	$footer = '<i>Copyright © <a href = "http://fb.com/hungs20"><font color = "red"><b>Hungs20</b></font></a><br/>Resource: <a href = "http://fb.com/viquoc.bui.9"><font color = "red"><b>Bui Vi Quoc</b></font></a></i>'; /// vui lòng tôn trọng quyền tác giả!
 	// $footer = '<i>NCT 2020</i>';

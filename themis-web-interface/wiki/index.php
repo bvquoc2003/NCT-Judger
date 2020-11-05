@@ -58,7 +58,7 @@ html{overflow-y: scroll!important}
 	}
 
 html{overflow-y: scroll!important}
-body{font-family: consolas;font-size:13px; line-height: 18px; padding-top:50px;background:#F4F4FE;color:#000000;background:rgb(178,223,218) url('/images/bg.gif') 0 50px fixed no-repeat;}
+body{font-family: consolas;font-size:13px; line-height: 18px; padding-top:50px;background:#F4F4FE;color:#000000;background:rgb(178,223,218) url('/images/bg.jpg') 0 50px fixed no-repeat;}
 ::-webkit-scrollbar{width:10px;height:10px}
 ::-webkit-scrollbar-track{background-color:#F5F5F5;-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.3);border:0 solid #000}
 ::-webkit-scrollbar-thumb{background:#07F}
