@@ -1,0 +1,65 @@
+﻿bvquoc‣BUILDING: 100.00
+BUILDING.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "BUILDING.cpp" -pipe -O2 -s -static -lm -x c++ -o"BUILDING.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom41228\
+Dịch thành công.
+
+bvquoc‣BUILDING‣Test01: 5.00
+Thời gian ≈ 0.036972000 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test02: 5.00
+Thời gian ≈ 0.035378700 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test03: 5.00
+Thời gian ≈ 0.051498900 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test04: 5.00
+Thời gian ≈ 0.063451900 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test05: 5.00
+Thời gian ≈ 0.112096900 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test06: 5.00
+Thời gian ≈ 0.116849000 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test07: 5.00
+Thời gian ≈ 0.035296900 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test08: 5.00
+Thời gian ≈ 0.112845700 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test09: 5.00
+Thời gian ≈ 0.162199100 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test10: 5.00
+Thời gian ≈ 0.114209900 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test11: 5.00
+Thời gian ≈ 0.093269500 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test12: 5.00
+Thời gian ≈ 0.049291000 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test13: 5.00
+Thời gian ≈ 0.045253800 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test14: 5.00
+Thời gian ≈ 0.053701200 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test15: 5.00
+Thời gian ≈ 0.041145100 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test16: 5.00
+Thời gian ≈ 0.048279400 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test17: 5.00
+Thời gian ≈ 0.050586700 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test18: 5.00
+Thời gian ≈ 0.054536700 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test19: 5.00
+Thời gian ≈ 0.045106300 giây
+Kết quả khớp đáp án!
+bvquoc‣BUILDING‣Test20: 5.00
+Thời gian ≈ 0.098797100 giây
+Kết quả khớp đáp án!

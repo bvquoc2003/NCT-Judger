@@ -1,0 +1,35 @@
+﻿tvhson‣GAMESHOW: 30.00
+GAMESHOW.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "GAMESHOW.cpp" -pipe -O2 -s -static -lm -x c++ -o"GAMESHOW.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom41765\
+Dịch thành công.
+
+tvhson‣GAMESHOW‣test001: 10.00
+Thời gian ≈ 0.036353600 giây
+Kết quả khớp đáp án!
+tvhson‣GAMESHOW‣test002: 10.00
+Thời gian ≈ 0.066880800 giây
+Kết quả khớp đáp án!
+tvhson‣GAMESHOW‣test003: 10.00
+Thời gian ≈ 0.046174500 giây
+Kết quả khớp đáp án!
+tvhson‣GAMESHOW‣test004: 0.00
+Thời gian ≈ 0.035362000 giây
+Kết quả KHÁC đáp án!
+tvhson‣GAMESHOW‣test005: 0.00
+Thời gian ≈ 0.035801300 giây
+Kết quả KHÁC đáp án!
+tvhson‣GAMESHOW‣test006: 0.00
+Thời gian ≈ 0.037087600 giây
+Kết quả KHÁC đáp án!
+tvhson‣GAMESHOW‣test007: 0.00
+Thời gian ≈ 0.041385400 giây
+Kết quả KHÁC đáp án!
+tvhson‣GAMESHOW‣test008: 0.00
+Thời gian ≈ 0.046367100 giây
+Kết quả KHÁC đáp án!
+tvhson‣GAMESHOW‣test009: 0.00
+Thời gian ≈ 0.043652700 giây
+Kết quả KHÁC đáp án!
+tvhson‣GAMESHOW‣test010: 0.00
+Thời gian ≈ 0.043873400 giây
+Kết quả KHÁC đáp án!

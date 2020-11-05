@@ -1,0 +1,31 @@
+﻿tvhson‣LCP: 60.00
+LCP.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "LCP.cpp" -pipe -O2 -s -static -lm -x c++ -o"LCP.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom3558\
+Dịch thành công.
+
+tvhson‣LCP‣test001: 10.00
+Thời gian ≈ 0.064448100 giây
+Kết quả khớp đáp án!
+tvhson‣LCP‣test002: 10.00
+Thời gian ≈ 0.037022600 giây
+Kết quả khớp đáp án!
+tvhson‣LCP‣test003: 10.00
+Thời gian ≈ 0.038588900 giây
+Kết quả khớp đáp án!
+tvhson‣LCP‣test004: 10.00
+Thời gian ≈ 0.035909300 giây
+Kết quả khớp đáp án!
+tvhson‣LCP‣test005: 10.00
+Thời gian ≈ 0.039417900 giây
+Kết quả khớp đáp án!
+tvhson‣LCP‣test006: 10.00
+Thời gian ≈ 0.038860500 giây
+Kết quả khớp đáp án!
+tvhson‣LCP‣test007: 0.00
+Chạy quá thời gian
+tvhson‣LCP‣test008: 0.00
+Chạy quá thời gian
+tvhson‣LCP‣test009: 0.00
+Chạy quá thời gian
+tvhson‣LCP‣test010: 0.00
+Chạy quá thời gian

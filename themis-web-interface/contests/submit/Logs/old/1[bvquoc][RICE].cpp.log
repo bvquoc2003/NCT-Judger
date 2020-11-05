@@ -1,0 +1,65 @@
+﻿bvquoc‣RICE: 100.00
+RICE.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "RICE.cpp" -pipe -O2 -s -static -lm -x c++ -o"RICE.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom56157\
+Dịch thành công.
+
+bvquoc‣RICE‣Test01: 5.00
+Thời gian ≈ 0.085038600 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test02: 5.00
+Thời gian ≈ 0.040519500 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test03: 5.00
+Thời gian ≈ 0.036646000 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test04: 5.00
+Thời gian ≈ 0.036226700 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test05: 5.00
+Thời gian ≈ 0.035731600 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test06: 5.00
+Thời gian ≈ 0.059211700 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test07: 5.00
+Thời gian ≈ 0.039979400 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test08: 5.00
+Thời gian ≈ 0.040925900 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test09: 5.00
+Thời gian ≈ 0.047264300 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test10: 5.00
+Thời gian ≈ 0.044879600 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test11: 5.00
+Thời gian ≈ 0.112442000 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test12: 5.00
+Thời gian ≈ 0.096480400 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test13: 5.00
+Thời gian ≈ 0.046932900 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test14: 5.00
+Thời gian ≈ 0.070876800 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test15: 5.00
+Thời gian ≈ 0.049558300 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test16: 5.00
+Thời gian ≈ 0.062817600 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test17: 5.00
+Thời gian ≈ 0.066906400 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test18: 5.00
+Thời gian ≈ 0.066594100 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test19: 5.00
+Thời gian ≈ 0.043777900 giây
+Kết quả khớp đáp án!
+bvquoc‣RICE‣Test20: 5.00
+Thời gian ≈ 0.078756800 giây
+Kết quả khớp đáp án!

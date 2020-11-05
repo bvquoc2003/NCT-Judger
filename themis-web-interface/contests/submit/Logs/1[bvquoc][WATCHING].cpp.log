@@ -1,0 +1,65 @@
+﻿bvquoc‣WATCHING: 100.00
+WATCHING.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "WATCHING.cpp" -pipe -O2 -s -static -lm -x c++ -o"WATCHING.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom65355\
+Dịch thành công.
+
+bvquoc‣WATCHING‣Test01: 5.00
+Thời gian ≈ 0.072399700 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test02: 5.00
+Thời gian ≈ 0.038205300 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test03: 5.00
+Thời gian ≈ 0.037713800 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test04: 5.00
+Thời gian ≈ 0.043189100 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test05: 5.00
+Thời gian ≈ 0.040513500 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test06: 5.00
+Thời gian ≈ 0.044172700 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test07: 5.00
+Thời gian ≈ 0.040021900 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test08: 5.00
+Thời gian ≈ 0.043227100 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test09: 5.00
+Thời gian ≈ 0.126459500 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test10: 5.00
+Thời gian ≈ 0.099880500 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test11: 5.00
+Thời gian ≈ 0.095114000 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test12: 5.00
+Thời gian ≈ 0.096726800 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test13: 5.00
+Thời gian ≈ 0.099293500 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test14: 5.00
+Thời gian ≈ 0.098785500 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test15: 5.00
+Thời gian ≈ 0.102358300 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test16: 5.00
+Thời gian ≈ 0.146384300 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test17: 5.00
+Thời gian ≈ 0.144219700 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test18: 5.00
+Thời gian ≈ 0.077117900 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test19: 5.00
+Thời gian ≈ 0.102574800 giây
+Kết quả khớp đáp án!
+bvquoc‣WATCHING‣Test20: 5.00
+Thời gian ≈ 0.116452500 giây
+Kết quả khớp đáp án!

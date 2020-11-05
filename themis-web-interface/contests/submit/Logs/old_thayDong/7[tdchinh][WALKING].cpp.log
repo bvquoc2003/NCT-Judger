@@ -1,0 +1,65 @@
+﻿tdchinh‣WALKING: 10.00
+WALKING.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "WALKING.cpp" -pipe -O2 -s -static -lm -x c++ -o"WALKING.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom22076\
+Dịch thành công.
+
+tdchinh‣WALKING‣test01: 5.00
+Thời gian ≈ 0.042105000 giây
+Kết quả khớp đáp án!
+tdchinh‣WALKING‣test02: 0.00
+Thời gian ≈ 0.036071300 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test03: 5.00
+Thời gian ≈ 0.039736000 giây
+Kết quả khớp đáp án!
+tdchinh‣WALKING‣test04: 0.00
+Thời gian ≈ 0.034979400 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test05: 0.00
+Thời gian ≈ 0.039166400 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test06: 0.00
+Thời gian ≈ 0.065592000 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test07: 0.00
+Thời gian ≈ 0.035158200 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test08: 0.00
+Thời gian ≈ 0.037173500 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test09: 0.00
+Thời gian ≈ 0.036491200 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test10: 0.00
+Thời gian ≈ 0.036082400 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test11: 0.00
+Thời gian ≈ 0.035617300 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test12: 0.00
+Thời gian ≈ 0.038702300 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test13: 0.00
+Thời gian ≈ 0.037792200 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test14: 0.00
+Thời gian ≈ 0.039766600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test15: 0.00
+Thời gian ≈ 0.039605300 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test16: 0.00
+Thời gian ≈ 0.038087800 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test17: 0.00
+Thời gian ≈ 0.049624800 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test18: 0.00
+Thời gian ≈ 0.040894800 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test19: 0.00
+Thời gian ≈ 0.042826500 giây
+Kết quả KHÁC đáp án!
+tdchinh‣WALKING‣test20: 0.00
+Thời gian ≈ 0.045185300 giây
+Kết quả KHÁC đáp án!

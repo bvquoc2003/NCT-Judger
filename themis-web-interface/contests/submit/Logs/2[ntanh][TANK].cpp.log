@@ -1,0 +1,35 @@
+﻿ntanh‣TANK: 100.00
+TANK.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "TANK.cpp" -pipe -O2 -s -static -lm -x c++ -o"TANK.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom15439\
+Dịch thành công.
+
+ntanh‣TANK‣Test01: 10.00
+Thời gian ≈ 0.038845000 giây
+Kết quả khớp đáp án!
+ntanh‣TANK‣Test02: 10.00
+Thời gian ≈ 0.042435700 giây
+Kết quả khớp đáp án!
+ntanh‣TANK‣Test03: 10.00
+Thời gian ≈ 0.038514400 giây
+Kết quả khớp đáp án!
+ntanh‣TANK‣Test04: 10.00
+Thời gian ≈ 0.039390200 giây
+Kết quả khớp đáp án!
+ntanh‣TANK‣Test05: 10.00
+Thời gian ≈ 0.038658400 giây
+Kết quả khớp đáp án!
+ntanh‣TANK‣Test06: 10.00
+Thời gian ≈ 0.055202000 giây
+Kết quả khớp đáp án!
+ntanh‣TANK‣Test07: 10.00
+Thời gian ≈ 0.066352500 giây
+Kết quả khớp đáp án!
+ntanh‣TANK‣Test08: 10.00
+Thời gian ≈ 0.057577800 giây
+Kết quả khớp đáp án!
+ntanh‣TANK‣Test09: 10.00
+Thời gian ≈ 0.073940200 giây
+Kết quả khớp đáp án!
+ntanh‣TANK‣Test10: 10.00
+Thời gian ≈ 0.080608200 giây
+Kết quả khớp đáp án!

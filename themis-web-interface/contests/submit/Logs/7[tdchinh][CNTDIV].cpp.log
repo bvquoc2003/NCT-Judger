@@ -1,0 +1,125 @@
+﻿tdchinh‣CNTDIV: 0.00
+CNTDIV.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "CNTDIV.cpp" -pipe -O2 -s -static -lm -x c++ -o"CNTDIV.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom26853\
+Dịch thành công.
+
+tdchinh‣CNTDIV‣Test00: 0.00
+Thời gian ≈ 0.040062400 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test01: 0.00
+Thời gian ≈ 0.045432600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test02: 0.00
+Thời gian ≈ 0.041498500 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test03: 0.00
+Thời gian ≈ 0.045232600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test04: 0.00
+Thời gian ≈ 0.042850800 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test05: 0.00
+Thời gian ≈ 0.057741700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test06: 0.00
+Thời gian ≈ 0.039490300 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test07: 0.00
+Thời gian ≈ 0.045112700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test08: 0.00
+Thời gian ≈ 0.040203700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test09: 0.00
+Thời gian ≈ 0.041818700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test10: 0.00
+Thời gian ≈ 0.040698700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test11: 0.00
+Thời gian ≈ 0.046925500 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test12: 0.00
+Thời gian ≈ 0.041696700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test13: 0.00
+Thời gian ≈ 0.042167800 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test14: 0.00
+Thời gian ≈ 0.042864600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test15: 0.00
+Thời gian ≈ 0.046777700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test16: 0.00
+Thời gian ≈ 0.049161000 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test17: 0.00
+Thời gian ≈ 0.045913600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test18: 0.00
+Thời gian ≈ 0.050123300 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test19: 0.00
+Thời gian ≈ 0.051109800 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test20: 0.00
+Thời gian ≈ 0.043779600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test21: 0.00
+Thời gian ≈ 0.050266100 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test22: 0.00
+Thời gian ≈ 0.079087100 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test23: 0.00
+Thời gian ≈ 0.122242200 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test24: 0.00
+Thời gian ≈ 0.045932600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test25: 0.00
+Thời gian ≈ 0.054632900 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test26: 0.00
+Thời gian ≈ 0.051328400 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test27: 0.00
+Thời gian ≈ 0.082696700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test28: 0.00
+Thời gian ≈ 0.063697200 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test29: 0.00
+Thời gian ≈ 0.043877700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test30: 0.00
+Thời gian ≈ 0.101056200 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test31: 0.00
+Thời gian ≈ 0.163170800 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test32: 0.00
+Thời gian ≈ 0.175295500 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test33: 0.00
+Thời gian ≈ 0.240866300 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test34: 0.00
+Thời gian ≈ 0.267582500 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test35: 0.00
+Thời gian ≈ 0.289357400 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test36: 0.00
+Thời gian ≈ 0.356967500 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test37: 0.00
+Thời gian ≈ 0.319619600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test38: 0.00
+Thời gian ≈ 0.317188700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣CNTDIV‣Test39: 0.00
+Thời gian ≈ 0.311491700 giây
+Kết quả KHÁC đáp án!

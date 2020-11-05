@@ -1,0 +1,65 @@
+﻿lxnam‣FIVESET: 65.00
+FIVESET.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "FIVESET.cpp" -pipe -O2 -s -static -lm -x c++ -o"FIVESET.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom7524\
+Dịch thành công.
+
+lxnam‣FIVESET‣test01: 5.00
+Thời gian ≈ 0.036981000 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test02: 0.00
+Thời gian ≈ 0.035267600 giây
+Kết quả KHÁC đáp án!
+lxnam‣FIVESET‣test03: 0.00
+Thời gian ≈ 0.039961600 giây
+Kết quả KHÁC đáp án!
+lxnam‣FIVESET‣test04: 0.00
+Thời gian ≈ 0.040610500 giây
+Kết quả KHÁC đáp án!
+lxnam‣FIVESET‣test05: 5.00
+Thời gian ≈ 0.055302400 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test06: 5.00
+Thời gian ≈ 0.127300800 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test07: 5.00
+Thời gian ≈ 0.110006000 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test08: 5.00
+Thời gian ≈ 0.151199300 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test09: 5.00
+Thời gian ≈ 0.049164800 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test10: 5.00
+Thời gian ≈ 0.048182000 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test11: 5.00
+Thời gian ≈ 0.045144600 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test12: 5.00
+Thời gian ≈ 0.043668700 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test13: 5.00
+Thời gian ≈ 0.084431000 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test14: 5.00
+Thời gian ≈ 0.104633800 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test15: 5.00
+Thời gian ≈ 0.127960300 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test16: 5.00
+Thời gian ≈ 0.144574100 giây
+Kết quả khớp đáp án!
+lxnam‣FIVESET‣test17: 0.00
+Thời gian ≈ 0.088381500 giây
+Kết quả KHÁC đáp án!
+lxnam‣FIVESET‣test18: 0.00
+Thời gian ≈ 0.095184400 giây
+Kết quả KHÁC đáp án!
+lxnam‣FIVESET‣test19: 0.00
+Thời gian ≈ 0.115300800 giây
+Kết quả KHÁC đáp án!
+lxnam‣FIVESET‣test20: 0.00
+Thời gian ≈ 0.142128900 giây
+Kết quả KHÁC đáp án!

@@ -1,0 +1,35 @@
+﻿bvquoc‣GAMESHOW: 0.00
+GAMESHOW.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "GAMESHOW.cpp" -pipe -O2 -s -static -lm -x c++ -o"GAMESHOW.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom5005\
+Dịch thành công.
+
+bvquoc‣GAMESHOW‣test001: 0.00
+Thời gian ≈ 0.141894900 giây
+Kết quả KHÁC đáp án!
+bvquoc‣GAMESHOW‣test002: 0.00
+Thời gian ≈ 0.059227700 giây
+Kết quả KHÁC đáp án!
+bvquoc‣GAMESHOW‣test003: 0.00
+Thời gian ≈ 0.035908200 giây
+Kết quả KHÁC đáp án!
+bvquoc‣GAMESHOW‣test004: 0.00
+Thời gian ≈ 0.035677500 giây
+Kết quả KHÁC đáp án!
+bvquoc‣GAMESHOW‣test005: 0.00
+Thời gian ≈ 0.035322500 giây
+Kết quả KHÁC đáp án!
+bvquoc‣GAMESHOW‣test006: 0.00
+Thời gian ≈ 0.035366200 giây
+Kết quả KHÁC đáp án!
+bvquoc‣GAMESHOW‣test007: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom39492\GAMESHOW.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+bvquoc‣GAMESHOW‣test008: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom29187\GAMESHOW.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+bvquoc‣GAMESHOW‣test009: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom1725\GAMESHOW.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+bvquoc‣GAMESHOW‣test010: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom46422\GAMESHOW.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

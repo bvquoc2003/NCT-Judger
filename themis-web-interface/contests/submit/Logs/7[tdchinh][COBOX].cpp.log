@@ -1,0 +1,65 @@
+﻿tdchinh‣COBOX: 65.00
+COBOX.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "COBOX.cpp" -pipe -O2 -s -static -lm -x c++ -o"COBOX.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom30185\
+Dịch thành công.
+
+tdchinh‣COBOX‣Test000: 0.00
+Thời gian ≈ 0.042738900 giây
+Kết quả KHÁC đáp án!
+tdchinh‣COBOX‣Test009: 5.00
+Thời gian ≈ 0.043745300 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test010: 5.00
+Thời gian ≈ 0.043213600 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test019: 5.00
+Thời gian ≈ 0.045984700 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test020: 5.00
+Thời gian ≈ 0.046794000 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test029: 5.00
+Thời gian ≈ 0.044811800 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test030: 0.00
+Thời gian ≈ 0.122358500 giây
+Kết quả KHÁC đáp án!
+tdchinh‣COBOX‣Test039: 0.00
+Thời gian ≈ 0.104440200 giây
+Kết quả KHÁC đáp án!
+tdchinh‣COBOX‣Test040: 0.00
+Thời gian ≈ 0.096162700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣COBOX‣Test049: 0.00
+Thời gian ≈ 0.096568800 giây
+Kết quả KHÁC đáp án!
+tdchinh‣COBOX‣Test050: 0.00
+Thời gian ≈ 0.096680000 giây
+Kết quả KHÁC đáp án!
+tdchinh‣COBOX‣Test059: 0.00
+Thời gian ≈ 0.119159100 giây
+Kết quả KHÁC đáp án!
+tdchinh‣COBOX‣Test060: 5.00
+Thời gian ≈ 0.257814100 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test069: 5.00
+Thời gian ≈ 0.190361600 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test070: 5.00
+Thời gian ≈ 0.238308800 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test079: 5.00
+Thời gian ≈ 0.190269000 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test080: 5.00
+Thời gian ≈ 0.334101100 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test089: 5.00
+Thời gian ≈ 0.380859500 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test090: 5.00
+Thời gian ≈ 0.217926400 giây
+Kết quả khớp đáp án!
+tdchinh‣COBOX‣Test099: 5.00
+Thời gian ≈ 0.328485400 giây
+Kết quả khớp đáp án!

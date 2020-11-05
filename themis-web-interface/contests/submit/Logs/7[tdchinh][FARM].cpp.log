@@ -1,0 +1,35 @@
+﻿tdchinh‣FARM: 20.00
+FARM.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "FARM.cpp" -pipe -O2 -s -static -lm -x c++ -o"FARM.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom48781\
+Dịch thành công.
+
+tdchinh‣FARM‣Test00: 0.00
+Thời gian ≈ 0.046638600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣FARM‣Test01: 0.00
+Thời gian ≈ 0.041307700 giây
+Kết quả KHÁC đáp án!
+tdchinh‣FARM‣Test02: 0.00
+Thời gian ≈ 0.041077600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣FARM‣Test03: 10.00
+Thời gian ≈ 0.061145600 giây
+Kết quả khớp đáp án!
+tdchinh‣FARM‣Test04: 0.00
+Thời gian ≈ 0.043903600 giây
+Kết quả KHÁC đáp án!
+tdchinh‣FARM‣Test05: 0.00
+Thời gian ≈ 0.043005900 giây
+Kết quả KHÁC đáp án!
+tdchinh‣FARM‣Test06: 10.00
+Thời gian ≈ 0.049293700 giây
+Kết quả khớp đáp án!
+tdchinh‣FARM‣Test07: 0.00
+Thời gian ≈ 0.042171100 giây
+Kết quả KHÁC đáp án!
+tdchinh‣FARM‣Test08: 0.00
+Thời gian ≈ 0.045236800 giây
+Kết quả KHÁC đáp án!
+tdchinh‣FARM‣Test09: 0.00
+Thời gian ≈ 0.049743300 giây
+Kết quả KHÁC đáp án!

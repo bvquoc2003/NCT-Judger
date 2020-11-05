@@ -1,0 +1,65 @@
+﻿lxnam‣DLIGHT: 90.00
+DLIGHT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "DLIGHT.cpp" -pipe -O2 -s -static -lm -x c++ -o"DLIGHT.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom10896\
+Dịch thành công.
+
+lxnam‣DLIGHT‣Test01: 5.00
+Thời gian ≈ 0.037019400 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test02: 5.00
+Thời gian ≈ 0.040678800 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test03: 5.00
+Thời gian ≈ 0.035420100 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test04: 5.00
+Thời gian ≈ 0.035327600 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test05: 5.00
+Thời gian ≈ 0.054791800 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test06: 5.00
+Thời gian ≈ 0.040498100 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test07: 5.00
+Thời gian ≈ 0.064546800 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test08: 5.00
+Thời gian ≈ 0.044122600 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test09: 5.00
+Thời gian ≈ 0.074346700 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test10: 5.00
+Thời gian ≈ 0.149806100 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test11: 5.00
+Thời gian ≈ 0.195410000 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test12: 5.00
+Thời gian ≈ 0.180360500 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test13: 5.00
+Thời gian ≈ 0.198570600 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test14: 5.00
+Thời gian ≈ 0.180887600 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test15: 5.00
+Thời gian ≈ 0.174794900 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test16: 5.00
+Thời gian ≈ 0.211956100 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test17: 5.00
+Thời gian ≈ 0.179573700 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test18: 5.00
+Thời gian ≈ 0.195405500 giây
+Kết quả khớp đáp án!
+lxnam‣DLIGHT‣Test19: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom27577\DLIGHT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣DLIGHT‣Test20: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom49442\DLIGHT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

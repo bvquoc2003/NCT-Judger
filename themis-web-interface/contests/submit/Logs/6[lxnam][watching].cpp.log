@@ -1,0 +1,65 @@
+﻿lxnam‣watching: 80.00
+watching.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "watching.cpp" -pipe -O2 -s -static -lm -x c++ -o"watching.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom15687\
+Dịch thành công.
+
+lxnam‣watching‣Test01: 5.00
+Thời gian ≈ 0.038593700 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test02: 0.00
+Thời gian ≈ 0.041696200 giây
+Kết quả KHÁC đáp án!
+lxnam‣watching‣Test03: 5.00
+Thời gian ≈ 0.036898900 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test04: 5.00
+Thời gian ≈ 0.063495400 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test05: 0.00
+Thời gian ≈ 0.047193900 giây
+Kết quả KHÁC đáp án!
+lxnam‣watching‣Test06: 5.00
+Thời gian ≈ 0.050053600 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test07: 0.00
+Thời gian ≈ 0.044264500 giây
+Kết quả KHÁC đáp án!
+lxnam‣watching‣Test08: 5.00
+Thời gian ≈ 0.044221300 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test09: 5.00
+Thời gian ≈ 0.319784700 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test10: 5.00
+Thời gian ≈ 0.292860400 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test11: 5.00
+Thời gian ≈ 0.335116600 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test12: 5.00
+Thời gian ≈ 0.302123600 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test13: 5.00
+Thời gian ≈ 0.324659800 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test14: 5.00
+Thời gian ≈ 0.314063900 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test15: 5.00
+Thời gian ≈ 0.317046600 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test16: 5.00
+Thời gian ≈ 0.395021200 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test17: 5.00
+Thời gian ≈ 0.446830100 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test18: 5.00
+Thời gian ≈ 0.253028600 giây
+Kết quả khớp đáp án!
+lxnam‣watching‣Test19: 0.00
+Thời gian ≈ 0.343215200 giây
+Kết quả KHÁC đáp án!
+lxnam‣watching‣Test20: 5.00
+Thời gian ≈ 0.366414900 giây
+Kết quả khớp đáp án!

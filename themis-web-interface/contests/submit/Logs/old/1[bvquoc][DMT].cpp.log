@@ -1,0 +1,65 @@
+﻿bvquoc‣DMT: 75.00
+DMT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "DMT.cpp" -pipe -O2 -s -static -lm -x c++ -o"DMT.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom40862\
+Dịch thành công.
+
+bvquoc‣DMT‣test01: 5.00
+Thời gian ≈ 0.037007700 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test02: 5.00
+Thời gian ≈ 0.035740500 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test03: 5.00
+Thời gian ≈ 0.035753100 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test04: 5.00
+Thời gian ≈ 0.038934700 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test05: 5.00
+Thời gian ≈ 0.035524200 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test06: 5.00
+Thời gian ≈ 0.040558600 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test07: 5.00
+Thời gian ≈ 0.040206500 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test08: 5.00
+Thời gian ≈ 0.041876700 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test09: 5.00
+Thời gian ≈ 0.047078600 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test10: 5.00
+Thời gian ≈ 0.046448100 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test11: 5.00
+Thời gian ≈ 0.130231500 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test12: 5.00
+Thời gian ≈ 0.328364000 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test13: 5.00
+Thời gian ≈ 0.372288900 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test14: 5.00
+Thời gian ≈ 0.322911200 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test15: 5.00
+Thời gian ≈ 0.368106500 giây
+Kết quả khớp đáp án!
+bvquoc‣DMT‣test16: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom13297\DMT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+bvquoc‣DMT‣test17: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom17409\DMT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+bvquoc‣DMT‣test18: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom8489\DMT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+bvquoc‣DMT‣test19: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom57450\DMT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+bvquoc‣DMT‣test20: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom12305\DMT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

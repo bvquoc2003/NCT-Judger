@@ -1,0 +1,51 @@
+﻿lxnam‣cobox: 0.00
+cobox.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "cobox.cpp" -pipe -O2 -s -static -lm -x c++ -o"cobox.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom29596\
+Dịch thành công.
+
+lxnam‣cobox‣Test000: 0.00
+Thời gian ≈ 0.092274600 giây
+Kết quả KHÁC đáp án!
+lxnam‣cobox‣Test009: 0.00
+Thời gian ≈ 0.054438100 giây
+Kết quả KHÁC đáp án!
+lxnam‣cobox‣Test010: 0.00
+Thời gian ≈ 0.057089800 giây
+Kết quả KHÁC đáp án!
+lxnam‣cobox‣Test019: 0.00
+Thời gian ≈ 0.062517500 giây
+Kết quả KHÁC đáp án!
+lxnam‣cobox‣Test020: 0.00
+Thời gian ≈ 0.166489600 giây
+Kết quả KHÁC đáp án!
+lxnam‣cobox‣Test029: 0.00
+Thời gian ≈ 0.155071000 giây
+Kết quả KHÁC đáp án!
+lxnam‣cobox‣Test030: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test039: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test040: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test049: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test050: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test059: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test060: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test069: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test070: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test079: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test080: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test089: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test090: 0.00
+Chạy quá thời gian
+lxnam‣cobox‣Test099: 0.00
+Chạy quá thời gian

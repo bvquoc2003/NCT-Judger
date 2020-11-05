@@ -1,0 +1,20 @@
+﻿lxnam‣ALICEADD: 100.00
+ALICEADD.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "ALICEADD.cpp" -pipe -O2 -s -static -lm -x c++ -o"ALICEADD.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom30156\
+Dịch thành công.
+
+lxnam‣ALICEADD‣Test00: 20.00
+Thời gian ≈ 0.035561700 giây
+Kết quả khớp đáp án!
+lxnam‣ALICEADD‣Test01: 20.00
+Thời gian ≈ 0.039726100 giây
+Kết quả khớp đáp án!
+lxnam‣ALICEADD‣Test02: 20.00
+Thời gian ≈ 0.040448700 giây
+Kết quả khớp đáp án!
+lxnam‣ALICEADD‣Test03: 20.00
+Thời gian ≈ 0.041389000 giây
+Kết quả khớp đáp án!
+lxnam‣ALICEADD‣Test04: 20.00
+Thời gian ≈ 0.037802500 giây
+Kết quả khớp đáp án!

@@ -1,0 +1,174 @@
+﻿ntanh‣SQUARE: 74.14
+SQUARE.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "SQUARE.cpp" -pipe -O2 -s -static -lm -x c++ -o"SQUARE.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom51521\
+Dịch thành công.
+
+ntanh‣SQUARE‣Test00: 1.72
+Thời gian ≈ 0.459503000 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test01: 1.72
+Thời gian ≈ 0.463644300 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test02: 1.72
+Thời gian ≈ 0.451764100 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test03: 1.72
+Thời gian ≈ 0.456366600 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test04: 0.00
+Chạy quá thời gian
+ntanh‣SQUARE‣Test05: 1.72
+Thời gian ≈ 0.500120900 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test06: 1.72
+Thời gian ≈ 0.456302000 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test07: 1.72
+Thời gian ≈ 0.450179000 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test08: 1.72
+Thời gian ≈ 0.982311400 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test09: 1.72
+Thời gian ≈ 0.463725200 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test10: 1.72
+Thời gian ≈ 0.460438900 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test11: 1.72
+Thời gian ≈ 0.458255500 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test12: 1.72
+Thời gian ≈ 0.455357700 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test13: 1.72
+Thời gian ≈ 0.457100200 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test14: 1.72
+Thời gian ≈ 0.445639600 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test15: 1.72
+Thời gian ≈ 0.933189800 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test16: 1.72
+Thời gian ≈ 0.465962100 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test17: 1.72
+Thời gian ≈ 0.962282800 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test18: 1.72
+Thời gian ≈ 0.459537900 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test19: 1.72
+Thời gian ≈ 0.475844100 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test20: 1.72
+Thời gian ≈ 0.436846400 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test21: 1.72
+Thời gian ≈ 0.458689900 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test22: 1.72
+Thời gian ≈ 0.448355600 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test23: 1.72
+Thời gian ≈ 0.456543200 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test24: 0.00
+Thời gian ≈ 0.980264600 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test25: 0.00
+Thời gian ≈ 0.986900700 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test26: 0.00
+Chạy quá thời gian
+ntanh‣SQUARE‣Test27: 0.00
+Thời gian ≈ 0.980524400 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test28: 0.00
+Thời gian ≈ 0.958117600 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test29: 0.00
+Thời gian ≈ 0.970063100 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test30: 0.00
+Thời gian ≈ 0.956621500 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test31: 1.72
+Thời gian ≈ 0.469510200 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test32: 1.72
+Thời gian ≈ 0.445874600 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test33: 1.72
+Thời gian ≈ 0.973368500 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test34: 1.72
+Thời gian ≈ 0.468237600 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test35: 1.72
+Thời gian ≈ 0.439697500 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test36: 1.72
+Thời gian ≈ 0.457433400 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test37: 1.72
+Thời gian ≈ 0.449319300 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test38: 1.72
+Thời gian ≈ 0.454694500 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test39: 1.72
+Thời gian ≈ 0.449777000 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test40: 1.72
+Thời gian ≈ 0.463026800 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test41: 1.72
+Thời gian ≈ 0.453118100 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test42: 1.72
+Thời gian ≈ 0.456657300 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test43: 1.72
+Thời gian ≈ 0.447746600 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test44: 1.72
+Thời gian ≈ 0.453883900 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test45: 1.72
+Thời gian ≈ 0.450393800 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test46: 1.72
+Thời gian ≈ 0.457950800 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test47: 1.72
+Thời gian ≈ 0.457042700 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test48: 1.72
+Thời gian ≈ 0.772801900 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test49: 1.72
+Thời gian ≈ 0.789816800 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test50: 1.72
+Thời gian ≈ 0.779803700 giây
+Kết quả khớp đáp án!
+ntanh‣SQUARE‣Test51: 0.00
+Thời gian ≈ 0.989758500 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test52: 0.00
+Chạy quá thời gian
+ntanh‣SQUARE‣Test53: 0.00
+Chạy quá thời gian
+ntanh‣SQUARE‣Test54: 0.00
+Thời gian ≈ 0.976818600 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test55: 0.00
+Thời gian ≈ 0.960322400 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test56: 0.00
+Thời gian ≈ 0.984178400 giây
+Kết quả KHÁC đáp án!
+ntanh‣SQUARE‣Test57: 0.00
+Chạy quá thời gian

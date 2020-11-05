@@ -1,0 +1,27 @@
+﻿tvhson‣CANDIES: 20.00
+CANDIES.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "CANDIES.cpp" -pipe -O2 -s -static -lm -x c++ -o"CANDIES.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom45513\
+Dịch thành công.
+
+tvhson‣CANDIES‣Test01: 10.00
+Thời gian ≈ 0.286231400 giây
+Kết quả khớp đáp án!
+tvhson‣CANDIES‣Test02: 10.00
+Thời gian ≈ 0.265085800 giây
+Kết quả khớp đáp án!
+tvhson‣CANDIES‣Test03: 0.00
+Chạy quá thời gian
+tvhson‣CANDIES‣Test04: 0.00
+Chạy quá thời gian
+tvhson‣CANDIES‣Test05: 0.00
+Chạy quá thời gian
+tvhson‣CANDIES‣Test06: 0.00
+Chạy quá thời gian
+tvhson‣CANDIES‣Test07: 0.00
+Chạy quá thời gian
+tvhson‣CANDIES‣Test08: 0.00
+Chạy quá thời gian
+tvhson‣CANDIES‣Test09: 0.00
+Chạy quá thời gian
+tvhson‣CANDIES‣Test10: 0.00
+Chạy quá thời gian

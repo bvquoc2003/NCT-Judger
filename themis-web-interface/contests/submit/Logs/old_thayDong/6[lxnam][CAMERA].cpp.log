@@ -1,0 +1,85 @@
+﻿lxnam‣CAMERA: 66.67
+CAMERA.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "CAMERA.cpp" -pipe -O2 -s -static -lm -x c++ -o"CAMERA.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom45292\
+Dịch thành công.
+
+lxnam‣CAMERA‣Test01: 3.33
+Thời gian ≈ 0.041058900 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test02: 3.33
+Thời gian ≈ 0.035299400 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test03: 3.33
+Thời gian ≈ 0.039483100 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test04: 3.33
+Thời gian ≈ 0.039483000 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test05: 3.33
+Thời gian ≈ 0.039734200 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test06: 3.33
+Thời gian ≈ 0.040134100 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test07: 3.33
+Thời gian ≈ 0.040168400 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test08: 3.33
+Thời gian ≈ 0.039884900 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test09: 3.33
+Thời gian ≈ 0.041452700 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test10: 3.33
+Thời gian ≈ 0.039358000 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test11: 3.33
+Thời gian ≈ 0.041665500 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test12: 3.33
+Thời gian ≈ 0.108299600 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test13: 3.33
+Thời gian ≈ 0.040390500 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test14: 3.33
+Thời gian ≈ 0.042880100 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test15: 3.33
+Thời gian ≈ 0.042061400 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test16: 3.33
+Thời gian ≈ 0.042102800 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test17: 3.33
+Thời gian ≈ 0.042963900 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test18: 3.33
+Thời gian ≈ 0.058830400 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test19: 3.33
+Thời gian ≈ 0.134695100 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test20: 3.33
+Thời gian ≈ 0.101368000 giây
+Kết quả khớp đáp án!
+lxnam‣CAMERA‣Test21: 0.00
+Chạy quá thời gian
+lxnam‣CAMERA‣Test22: 0.00
+Chạy quá thời gian
+lxnam‣CAMERA‣Test23: 0.00
+Chạy quá thời gian
+lxnam‣CAMERA‣Test24: 0.00
+Chạy quá thời gian
+lxnam‣CAMERA‣Test25: 0.00
+Chạy quá thời gian
+lxnam‣CAMERA‣Test26: 0.00
+Chạy quá thời gian
+lxnam‣CAMERA‣Test27: 0.00
+Chạy quá thời gian
+lxnam‣CAMERA‣Test28: 0.00
+Chạy quá thời gian
+lxnam‣CAMERA‣Test29: 0.00
+Chạy quá thời gian
+lxnam‣CAMERA‣Test30: 0.00
+Chạy quá thời gian

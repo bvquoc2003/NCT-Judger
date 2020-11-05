@@ -1,0 +1,65 @@
+﻿tvhson‣FIVESET: 100.00
+FIVESET.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "FIVESET.cpp" -pipe -O2 -s -static -lm -x c++ -o"FIVESET.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom50277\
+Dịch thành công.
+
+tvhson‣FIVESET‣test01: 5.00
+Thời gian ≈ 0.043992400 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test02: 5.00
+Thời gian ≈ 0.037492800 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test03: 5.00
+Thời gian ≈ 0.038220600 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test04: 5.00
+Thời gian ≈ 0.046098200 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test05: 5.00
+Thời gian ≈ 0.050171600 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test06: 5.00
+Thời gian ≈ 0.100194500 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test07: 5.00
+Thời gian ≈ 0.081358500 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test08: 5.00
+Thời gian ≈ 0.090478900 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test09: 5.00
+Thời gian ≈ 0.044780900 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test10: 5.00
+Thời gian ≈ 0.044232100 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test11: 5.00
+Thời gian ≈ 0.046891200 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test12: 5.00
+Thời gian ≈ 0.046679500 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test13: 5.00
+Thời gian ≈ 0.057745000 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test14: 5.00
+Thời gian ≈ 0.072552100 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test15: 5.00
+Thời gian ≈ 0.080724700 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test16: 5.00
+Thời gian ≈ 0.086309000 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test17: 5.00
+Thời gian ≈ 0.056927700 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test18: 5.00
+Thời gian ≈ 0.066656200 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test19: 5.00
+Thời gian ≈ 0.080856500 giây
+Kết quả khớp đáp án!
+tvhson‣FIVESET‣test20: 5.00
+Thời gian ≈ 0.088171300 giây
+Kết quả khớp đáp án!

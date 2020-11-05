@@ -1,0 +1,65 @@
+﻿nxbac‣watching: 100.00
+watching.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "watching.cpp" -pipe -O2 -s -static -lm -x c++ -o"watching.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom43951\
+Dịch thành công.
+
+nxbac‣watching‣Test01: 5.00
+Thời gian ≈ 0.070085200 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test02: 5.00
+Thời gian ≈ 0.039114900 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test03: 5.00
+Thời gian ≈ 0.039122000 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test04: 5.00
+Thời gian ≈ 0.044386100 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test05: 5.00
+Thời gian ≈ 0.041832200 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test06: 5.00
+Thời gian ≈ 0.043387600 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test07: 5.00
+Thời gian ≈ 0.038680000 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test08: 5.00
+Thời gian ≈ 0.045015600 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test09: 5.00
+Thời gian ≈ 0.291313300 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test10: 5.00
+Thời gian ≈ 0.291497100 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test11: 5.00
+Thời gian ≈ 0.286383800 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test12: 5.00
+Thời gian ≈ 0.299748800 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test13: 5.00
+Thời gian ≈ 0.345538900 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test14: 5.00
+Thời gian ≈ 0.321186400 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test15: 5.00
+Thời gian ≈ 0.351978500 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test16: 5.00
+Thời gian ≈ 0.410973500 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test17: 5.00
+Thời gian ≈ 0.387267700 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test18: 5.00
+Thời gian ≈ 0.215057500 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test19: 5.00
+Thời gian ≈ 0.366532900 giây
+Kết quả khớp đáp án!
+nxbac‣watching‣Test20: 5.00
+Thời gian ≈ 0.297555200 giây
+Kết quả khớp đáp án!

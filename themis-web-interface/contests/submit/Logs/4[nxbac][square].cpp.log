@@ -1,0 +1,179 @@
+﻿nxbac‣square: 100.00
+square.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "square.cpp" -pipe -O2 -s -static -lm -x c++ -o"square.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom29359\
+Dịch thành công.
+
+nxbac‣square‣Test00: 1.72
+Thời gian ≈ 0.036890400 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test01: 1.72
+Thời gian ≈ 0.035782800 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test02: 1.72
+Thời gian ≈ 0.035790800 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test03: 1.72
+Thời gian ≈ 0.036145300 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test04: 1.72
+Thời gian ≈ 0.038577900 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test05: 1.72
+Thời gian ≈ 0.040966300 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test06: 1.72
+Thời gian ≈ 0.034790600 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test07: 1.72
+Thời gian ≈ 0.035697700 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test08: 1.72
+Thời gian ≈ 0.036286400 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test09: 1.72
+Thời gian ≈ 0.037008300 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test10: 1.72
+Thời gian ≈ 0.036577400 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test11: 1.72
+Thời gian ≈ 0.036249800 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test12: 1.72
+Thời gian ≈ 0.041306800 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test13: 1.72
+Thời gian ≈ 0.035964600 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test14: 1.72
+Thời gian ≈ 0.037794800 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test15: 1.72
+Thời gian ≈ 0.042531200 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test16: 1.72
+Thời gian ≈ 0.035949100 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test17: 1.72
+Thời gian ≈ 0.035395500 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test18: 1.72
+Thời gian ≈ 0.037609400 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test19: 1.72
+Thời gian ≈ 0.037657700 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test20: 1.72
+Thời gian ≈ 0.036905600 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test21: 1.72
+Thời gian ≈ 0.036429700 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test22: 1.72
+Thời gian ≈ 0.085970500 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test23: 1.72
+Thời gian ≈ 0.085625600 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test24: 1.72
+Thời gian ≈ 0.090228500 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test25: 1.72
+Thời gian ≈ 0.084209500 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test26: 1.72
+Thời gian ≈ 0.085029100 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test27: 1.72
+Thời gian ≈ 0.084910800 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test28: 1.72
+Thời gian ≈ 0.085537000 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test29: 1.72
+Thời gian ≈ 0.085298500 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test30: 1.72
+Thời gian ≈ 0.099111600 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test31: 1.72
+Thời gian ≈ 0.039824500 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test32: 1.72
+Thời gian ≈ 0.035170200 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test33: 1.72
+Thời gian ≈ 0.036274500 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test34: 1.72
+Thời gian ≈ 0.035976000 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test35: 1.72
+Thời gian ≈ 0.036097700 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test36: 1.72
+Thời gian ≈ 0.038053700 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test37: 1.72
+Thời gian ≈ 0.037237400 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test38: 1.72
+Thời gian ≈ 0.037138400 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test39: 1.72
+Thời gian ≈ 0.038073900 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test40: 1.72
+Thời gian ≈ 0.039574500 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test41: 1.72
+Thời gian ≈ 0.039638000 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test42: 1.72
+Thời gian ≈ 0.035442500 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test43: 1.72
+Thời gian ≈ 0.036501000 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test44: 1.72
+Thời gian ≈ 0.039708300 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test45: 1.72
+Thời gian ≈ 0.039880600 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test46: 1.72
+Thời gian ≈ 0.037290000 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test47: 1.72
+Thời gian ≈ 0.037918300 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test48: 1.72
+Thời gian ≈ 0.090194400 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test49: 1.72
+Thời gian ≈ 0.086467300 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test50: 1.72
+Thời gian ≈ 0.091576800 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test51: 1.72
+Thời gian ≈ 0.086175300 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test52: 1.72
+Thời gian ≈ 0.087079400 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test53: 1.72
+Thời gian ≈ 0.087054800 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test54: 1.72
+Thời gian ≈ 0.087560800 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test55: 1.72
+Thời gian ≈ 0.087338700 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test56: 1.72
+Thời gian ≈ 0.086869100 giây
+Kết quả khớp đáp án!
+nxbac‣square‣Test57: 1.72
+Thời gian ≈ 0.091916300 giây
+Kết quả khớp đáp án!

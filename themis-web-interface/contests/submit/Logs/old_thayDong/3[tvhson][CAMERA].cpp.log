@@ -1,0 +1,95 @@
+﻿tvhson‣CAMERA: 100.00
+CAMERA.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "CAMERA.cpp" -pipe -O2 -s -static -lm -x c++ -o"CAMERA.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom57787\
+Dịch thành công.
+
+tvhson‣CAMERA‣Test01: 3.33
+Thời gian ≈ 0.064696600 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test02: 3.33
+Thời gian ≈ 0.036645200 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test03: 3.33
+Thời gian ≈ 0.039410600 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test04: 3.33
+Thời gian ≈ 0.038876400 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test05: 3.33
+Thời gian ≈ 0.039573800 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test06: 3.33
+Thời gian ≈ 0.036299300 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test07: 3.33
+Thời gian ≈ 0.036356600 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test08: 3.33
+Thời gian ≈ 0.039006700 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test09: 3.33
+Thời gian ≈ 0.036739500 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test10: 3.33
+Thời gian ≈ 0.036162300 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test11: 3.33
+Thời gian ≈ 0.037496300 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test12: 3.33
+Thời gian ≈ 0.037358500 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test13: 3.33
+Thời gian ≈ 0.038647800 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test14: 3.33
+Thời gian ≈ 0.037559200 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test15: 3.33
+Thời gian ≈ 0.036990100 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test16: 3.33
+Thời gian ≈ 0.039517500 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test17: 3.33
+Thời gian ≈ 0.038006000 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test18: 3.33
+Thời gian ≈ 0.051835200 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test19: 3.33
+Thời gian ≈ 0.091485500 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test20: 3.33
+Thời gian ≈ 0.068473400 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test21: 3.33
+Thời gian ≈ 0.070034900 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test22: 3.33
+Thời gian ≈ 0.071597000 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test23: 3.33
+Thời gian ≈ 0.117169400 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test24: 3.33
+Thời gian ≈ 0.122862900 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test25: 3.33
+Thời gian ≈ 0.094158200 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test26: 3.33
+Thời gian ≈ 0.083246300 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test27: 3.33
+Thời gian ≈ 0.078555800 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test28: 3.33
+Thời gian ≈ 0.100256200 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test29: 3.33
+Thời gian ≈ 0.179214600 giây
+Kết quả khớp đáp án!
+tvhson‣CAMERA‣Test30: 3.33
+Thời gian ≈ 0.078358800 giây
+Kết quả khớp đáp án!

@@ -1,0 +1,179 @@
+﻿lxnam‣SQUARE: 77.59
+SQUARE.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "SQUARE.cpp" -pipe -O2 -s -static -lm -x c++ -o"SQUARE.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom6001\
+Dịch thành công.
+
+lxnam‣SQUARE‣Test00: 1.72
+Thời gian ≈ 0.041748300 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test01: 1.72
+Thời gian ≈ 0.038037200 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test02: 1.72
+Thời gian ≈ 0.037590000 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test03: 1.72
+Thời gian ≈ 0.036805300 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test04: 1.72
+Thời gian ≈ 0.835012700 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test05: 1.72
+Thời gian ≈ 0.035776800 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test06: 1.72
+Thời gian ≈ 0.035691000 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test07: 1.72
+Thời gian ≈ 0.035145100 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test08: 1.72
+Thời gian ≈ 0.835987300 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test09: 1.72
+Thời gian ≈ 0.035531200 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test10: 1.72
+Thời gian ≈ 0.040460300 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test11: 1.72
+Thời gian ≈ 0.034616500 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test12: 1.72
+Thời gian ≈ 0.035949300 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test13: 1.72
+Thời gian ≈ 0.036162400 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test14: 1.72
+Thời gian ≈ 0.036583900 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test15: 1.72
+Thời gian ≈ 0.838486900 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test16: 1.72
+Thời gian ≈ 0.036145200 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test17: 1.72
+Thời gian ≈ 0.830087000 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test18: 1.72
+Thời gian ≈ 0.035996300 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test19: 1.72
+Thời gian ≈ 0.037238100 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test20: 1.72
+Thời gian ≈ 0.035627100 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test21: 1.72
+Thời gian ≈ 0.036184900 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test22: 1.72
+Thời gian ≈ 0.036958300 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test23: 1.72
+Thời gian ≈ 0.036904800 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test24: 0.00
+Thời gian ≈ 0.834944500 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test25: 0.00
+Thời gian ≈ 0.836220200 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test26: 1.72
+Thời gian ≈ 0.196970600 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test27: 0.00
+Thời gian ≈ 0.829246200 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test28: 0.00
+Thời gian ≈ 0.829288300 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test29: 0.00
+Thời gian ≈ 0.832633800 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test30: 0.00
+Thời gian ≈ 0.829245600 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test31: 1.72
+Thời gian ≈ 0.035857200 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test32: 1.72
+Thời gian ≈ 0.036114900 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test33: 1.72
+Thời gian ≈ 0.837604300 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test34: 1.72
+Thời gian ≈ 0.036906100 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test35: 1.72
+Thời gian ≈ 0.035065000 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test36: 1.72
+Thời gian ≈ 0.033969000 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test37: 1.72
+Thời gian ≈ 0.038714400 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test38: 1.72
+Thời gian ≈ 0.035395600 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test39: 1.72
+Thời gian ≈ 0.035243700 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test40: 1.72
+Thời gian ≈ 0.035507600 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test41: 1.72
+Thời gian ≈ 0.035791100 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test42: 1.72
+Thời gian ≈ 0.035782800 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test43: 1.72
+Thời gian ≈ 0.036489400 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test44: 1.72
+Thời gian ≈ 0.036681500 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test45: 1.72
+Thời gian ≈ 0.035944900 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test46: 1.72
+Thời gian ≈ 0.036530800 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test47: 1.72
+Thời gian ≈ 0.042217500 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test48: 1.72
+Thời gian ≈ 0.038336500 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test49: 1.72
+Thời gian ≈ 0.037813400 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test50: 1.72
+Thời gian ≈ 0.037354800 giây
+Kết quả khớp đáp án!
+lxnam‣SQUARE‣Test51: 0.00
+Thời gian ≈ 0.819383800 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test52: 0.00
+Thời gian ≈ 0.810079100 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test53: 0.00
+Thời gian ≈ 0.809768200 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test54: 0.00
+Thời gian ≈ 0.813823800 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test55: 0.00
+Thời gian ≈ 0.809821100 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test56: 0.00
+Thời gian ≈ 0.810910900 giây
+Kết quả KHÁC đáp án!
+lxnam‣SQUARE‣Test57: 0.00
+Thời gian ≈ 0.810057300 giây
+Kết quả KHÁC đáp án!

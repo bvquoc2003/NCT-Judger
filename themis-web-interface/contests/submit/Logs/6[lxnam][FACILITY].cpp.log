@@ -1,0 +1,32 @@
+﻿lxnam‣FACILITY: 50.00
+FACILITY.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "FACILITY.cpp" -pipe -O2 -s -static -lm -x c++ -o"FACILITY.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom44537\
+Dịch thành công.
+
+lxnam‣FACILITY‣Test00: 10.00
+Thời gian ≈ 0.048069000 giây
+Kết quả khớp đáp án!
+lxnam‣FACILITY‣Test01: 10.00
+Thời gian ≈ 0.039405600 giây
+Kết quả khớp đáp án!
+lxnam‣FACILITY‣Test02: 10.00
+Thời gian ≈ 0.043184300 giây
+Kết quả khớp đáp án!
+lxnam‣FACILITY‣Test03: 10.00
+Thời gian ≈ 0.087344300 giây
+Kết quả khớp đáp án!
+lxnam‣FACILITY‣Test04: 10.00
+Thời gian ≈ 0.185590300 giây
+Kết quả khớp đáp án!
+lxnam‣FACILITY‣Test05: 0.00
+Chạy quá thời gian
+lxnam‣FACILITY‣Test06: 0.00
+Chạy quá thời gian
+lxnam‣FACILITY‣Test07: 0.00
+Chạy quá thời gian
+lxnam‣FACILITY‣Test08: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom54812\FACILITY.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣FACILITY‣Test09: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom25788\FACILITY.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

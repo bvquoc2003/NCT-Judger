@@ -1,0 +1,65 @@
+﻿tvhson‣VISIT: 100.00
+VISIT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "VISIT.cpp" -pipe -O2 -s -static -lm -x c++ -o"VISIT.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom16714\
+Dịch thành công.
+
+tvhson‣VISIT‣Test01: 5.00
+Thời gian ≈ 0.035946500 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test02: 5.00
+Thời gian ≈ 0.040015200 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test03: 5.00
+Thời gian ≈ 0.036398900 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test04: 5.00
+Thời gian ≈ 0.036489400 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test05: 5.00
+Thời gian ≈ 0.045607600 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test06: 5.00
+Thời gian ≈ 0.051380600 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test07: 5.00
+Thời gian ≈ 0.051309700 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test08: 5.00
+Thời gian ≈ 0.057844400 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test09: 5.00
+Thời gian ≈ 0.055755000 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test10: 5.00
+Thời gian ≈ 0.064917000 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test11: 5.00
+Thời gian ≈ 0.143303000 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test12: 5.00
+Thời gian ≈ 0.159867200 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test13: 5.00
+Thời gian ≈ 0.094191500 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test14: 5.00
+Thời gian ≈ 0.131840100 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test15: 5.00
+Thời gian ≈ 0.055716500 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test16: 5.00
+Thời gian ≈ 0.179859000 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test17: 5.00
+Thời gian ≈ 0.113204500 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test18: 5.00
+Thời gian ≈ 0.151955500 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test19: 5.00
+Thời gian ≈ 0.212181800 giây
+Kết quả khớp đáp án!
+tvhson‣VISIT‣Test20: 5.00
+Thời gian ≈ 0.189522800 giây
+Kết quả khớp đáp án!

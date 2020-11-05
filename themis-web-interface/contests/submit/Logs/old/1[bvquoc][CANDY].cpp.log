@@ -1,0 +1,125 @@
+﻿bvquoc‣CANDY: 100.00
+CANDY.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "CANDY.cpp" -pipe -O2 -s -static -lm -x c++ -o"CANDY.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom29339\
+Dịch thành công.
+
+bvquoc‣CANDY‣Test01: 5.00
+Thời gian ≈ 0.036507400 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test02: 5.00
+Thời gian ≈ 0.041606000 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test03: 5.00
+Thời gian ≈ 0.035467600 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test04: 5.00
+Thời gian ≈ 0.036653800 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test05: 5.00
+Thời gian ≈ 0.042662300 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test06: 5.00
+Thời gian ≈ 0.043986000 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test07: 5.00
+Thời gian ≈ 0.043324900 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test08: 5.00
+Thời gian ≈ 0.044986400 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test09: 5.00
+Thời gian ≈ 0.071341300 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test10: 5.00
+Thời gian ≈ 0.040873100 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test10a: 0.00
+Thời gian ≈ 0.040270900 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test10b: 0.00
+Thời gian ≈ 0.078333800 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test11: 5.00
+Thời gian ≈ 0.114683600 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test12: 5.00
+Thời gian ≈ 0.111107500 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test13: 5.00
+Thời gian ≈ 0.076737800 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test14: 5.00
+Thời gian ≈ 0.121355200 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test15: 5.00
+Thời gian ≈ 0.166485100 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test16: 5.00
+Thời gian ≈ 0.076810100 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test17: 5.00
+Thời gian ≈ 0.132108100 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test18: 5.00
+Thời gian ≈ 0.119027500 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test19: 5.00
+Thời gian ≈ 0.101995700 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test1a: 0.00
+Thời gian ≈ 0.036087500 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test1b: 0.00
+Thời gian ≈ 0.035024700 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test20: 5.00
+Thời gian ≈ 0.159907300 giây
+Kết quả khớp đáp án!
+bvquoc‣CANDY‣Test2a: 0.00
+Thời gian ≈ 0.039415300 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test2b: 0.00
+Thời gian ≈ 0.035406600 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test3a: 0.00
+Thời gian ≈ 0.039199700 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test3b: 0.00
+Thời gian ≈ 0.034836400 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test4a: 0.00
+Thời gian ≈ 0.039533200 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test4b: 0.00
+Thời gian ≈ 0.035125400 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test5a: 0.00
+Thời gian ≈ 0.034962400 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test5b: 0.00
+Thời gian ≈ 0.039817400 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test6a: 0.00
+Thời gian ≈ 0.034996300 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test6b: 0.00
+Thời gian ≈ 0.034031100 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test7a: 0.00
+Thời gian ≈ 0.033868500 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test7b: 0.00
+Thời gian ≈ 0.035202700 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test8a: 0.00
+Thời gian ≈ 0.041888700 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test8b: 0.00
+Thời gian ≈ 0.039619800 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test9a: 0.00
+Thời gian ≈ 0.038889300 giây
+Kết quả KHÁC đáp án!
+bvquoc‣CANDY‣Test9b: 0.00
+Thời gian ≈ 0.039965800 giây
+Kết quả KHÁC đáp án!

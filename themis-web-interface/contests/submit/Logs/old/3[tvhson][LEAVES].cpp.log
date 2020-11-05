@@ -1,0 +1,65 @@
+﻿tvhson‣LEAVES: 100.00
+LEAVES.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "LEAVES.cpp" -pipe -O2 -s -static -lm -x c++ -o"LEAVES.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom19022\
+Dịch thành công.
+
+tvhson‣LEAVES‣Test00: 5.00
+Thời gian ≈ 0.035673500 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test01: 5.00
+Thời gian ≈ 0.036178000 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test010: 5.00
+Thời gian ≈ 0.101012500 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test011: 5.00
+Thời gian ≈ 0.099961600 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test012: 5.00
+Thời gian ≈ 0.105303400 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test013: 5.00
+Thời gian ≈ 0.169079800 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test014: 5.00
+Thời gian ≈ 0.102155800 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test015: 5.00
+Thời gian ≈ 0.097776400 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test016: 5.00
+Thời gian ≈ 0.098531000 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test017: 5.00
+Thời gian ≈ 0.097348700 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test018: 5.00
+Thời gian ≈ 0.100199000 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test019: 5.00
+Thời gian ≈ 0.098925400 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test02: 5.00
+Thời gian ≈ 0.036570100 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test03: 5.00
+Thời gian ≈ 0.039934400 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test04: 5.00
+Thời gian ≈ 0.042985900 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test05: 5.00
+Thời gian ≈ 0.039253900 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test06: 5.00
+Thời gian ≈ 0.044029000 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test07: 5.00
+Thời gian ≈ 0.044742300 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test08: 5.00
+Thời gian ≈ 0.044107900 giây
+Kết quả khớp đáp án!
+tvhson‣LEAVES‣Test09: 5.00
+Thời gian ≈ 0.045180800 giây
+Kết quả khớp đáp án!

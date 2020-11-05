@@ -1,0 +1,35 @@
+﻿tvhson‣TANK: 100.00
+TANK.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "TANK.cpp" -pipe -O2 -s -static -lm -x c++ -o"TANK.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom36767\
+Dịch thành công.
+
+tvhson‣TANK‣Test01: 10.00
+Thời gian ≈ 0.075331000 giây
+Kết quả khớp đáp án!
+tvhson‣TANK‣Test02: 10.00
+Thời gian ≈ 0.040581300 giây
+Kết quả khớp đáp án!
+tvhson‣TANK‣Test03: 10.00
+Thời gian ≈ 0.037065900 giây
+Kết quả khớp đáp án!
+tvhson‣TANK‣Test04: 10.00
+Thời gian ≈ 0.042238100 giây
+Kết quả khớp đáp án!
+tvhson‣TANK‣Test05: 10.00
+Thời gian ≈ 0.043151600 giây
+Kết quả khớp đáp án!
+tvhson‣TANK‣Test06: 10.00
+Thời gian ≈ 0.061358200 giây
+Kết quả khớp đáp án!
+tvhson‣TANK‣Test07: 10.00
+Thời gian ≈ 0.048288300 giây
+Kết quả khớp đáp án!
+tvhson‣TANK‣Test08: 10.00
+Thời gian ≈ 0.054970900 giây
+Kết quả khớp đáp án!
+tvhson‣TANK‣Test09: 10.00
+Thời gian ≈ 0.052169700 giây
+Kết quả khớp đáp án!
+tvhson‣TANK‣Test10: 10.00
+Thời gian ≈ 0.061310400 giây
+Kết quả khớp đáp án!

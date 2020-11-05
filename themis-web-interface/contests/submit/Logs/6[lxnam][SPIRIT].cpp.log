@@ -1,0 +1,140 @@
+﻿lxnam‣spirit: 100.00
+spirit.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "spirit.cpp" -pipe -O2 -s -static -lm -x c++ -o"spirit.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom13755\
+Dịch thành công.
+
+lxnam‣spirit‣Test00: 2.22
+Thời gian ≈ 0.064767100 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test01: 2.22
+Thời gian ≈ 0.035723500 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test02: 2.22
+Thời gian ≈ 0.037210900 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test03: 2.22
+Thời gian ≈ 0.040155400 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test04: 2.22
+Thời gian ≈ 0.036503100 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test05: 2.22
+Thời gian ≈ 0.035725800 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test06: 2.22
+Thời gian ≈ 0.034917100 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test07: 2.22
+Thời gian ≈ 0.037791900 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test08: 2.22
+Thời gian ≈ 0.037041200 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test09: 2.22
+Thời gian ≈ 0.036331100 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test10: 2.22
+Thời gian ≈ 0.038520400 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test11: 2.22
+Thời gian ≈ 0.035388000 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test12: 2.22
+Thời gian ≈ 0.036132800 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test13: 2.22
+Thời gian ≈ 0.037028000 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test14: 2.22
+Thời gian ≈ 0.036238400 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test15: 2.22
+Thời gian ≈ 0.036390200 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test16: 2.22
+Thời gian ≈ 0.036718000 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test17: 2.22
+Thời gian ≈ 0.036813800 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test18: 2.22
+Thời gian ≈ 0.039627000 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test19: 2.22
+Thời gian ≈ 0.038754500 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test20: 2.22
+Thời gian ≈ 0.041491700 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test21: 2.22
+Thời gian ≈ 0.036957300 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test22: 2.22
+Thời gian ≈ 0.037871000 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test23: 2.22
+Thời gian ≈ 0.036346200 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test24: 2.22
+Thời gian ≈ 0.037458400 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test25: 2.22
+Thời gian ≈ 0.037395100 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test26: 2.22
+Thời gian ≈ 0.037891900 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test27: 2.22
+Thời gian ≈ 0.038769400 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test28: 2.22
+Thời gian ≈ 0.036865900 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test29: 2.22
+Thời gian ≈ 0.036504200 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test30: 2.22
+Thời gian ≈ 0.038786900 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test31: 2.22
+Thời gian ≈ 0.036874600 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test32: 2.22
+Thời gian ≈ 0.037194300 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test33: 2.22
+Thời gian ≈ 0.036895700 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test34: 2.22
+Thời gian ≈ 0.037061900 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test35: 2.22
+Thời gian ≈ 0.038425500 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test36: 2.22
+Thời gian ≈ 0.035710900 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test37: 2.22
+Thời gian ≈ 0.038931400 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test38: 2.22
+Thời gian ≈ 0.035793000 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test39: 2.22
+Thời gian ≈ 0.036712000 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test40: 2.22
+Thời gian ≈ 0.039295900 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test41: 2.22
+Thời gian ≈ 0.036785500 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test42: 2.22
+Thời gian ≈ 0.036125800 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test43: 2.22
+Thời gian ≈ 0.037349400 giây
+Kết quả khớp đáp án!
+lxnam‣spirit‣Test44: 2.22
+Thời gian ≈ 0.037783700 giây
+Kết quả khớp đáp án!

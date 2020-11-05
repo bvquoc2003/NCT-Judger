@@ -1,0 +1,65 @@
+﻿lxnam‣STRALT: 0.00
+STRALT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "STRALT.cpp" -pipe -O2 -s -static -lm -x c++ -o"STRALT.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom12032\
+Dịch thành công.
+
+lxnam‣STRALT‣Test00: 0.00
+Thời gian ≈ 0.064025500 giây
+Kết quả KHÁC đáp án!
+lxnam‣STRALT‣Test01: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom14697\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test02: 0.00
+Thời gian ≈ 0.041379300 giây
+Kết quả KHÁC đáp án!
+lxnam‣STRALT‣Test03: 0.00
+Thời gian ≈ 0.040740900 giây
+Kết quả KHÁC đáp án!
+lxnam‣STRALT‣Test04: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom36396\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test05: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom10036\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test06: 0.00
+Thời gian ≈ 0.068746400 giây
+Kết quả KHÁC đáp án!
+lxnam‣STRALT‣Test07: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom21109\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test08: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom62285\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test09: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom38461\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test10: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom53721\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test11: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom8343\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test12: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom27401\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test13: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom3576\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test14: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom21105\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test15: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom23638\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test16: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom22837\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test17: 0.00
+Thời gian ≈ 0.039912000 giây
+Kết quả KHÁC đáp án!
+lxnam‣STRALT‣Test18: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom14906\STRALT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣STRALT‣Test19: 0.00
+Thời gian ≈ 0.037733600 giây
+Kết quả KHÁC đáp án!

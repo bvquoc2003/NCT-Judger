@@ -1,0 +1,121 @@
+﻿bvquoc‣KMULT: 90.00
+KMULT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "KMULT.cpp" -pipe -O2 -s -static -lm -x c++ -o"KMULT.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom20504\
+Dịch thành công.
+
+bvquoc‣KMULT‣a1: 2.50
+Thời gian ≈ 0.043708000 giây
+Correct!
+bvquoc‣KMULT‣a10: 2.50
+Thời gian ≈ 0.036670800 giây
+Correct!
+bvquoc‣KMULT‣a11: 2.50
+Thời gian ≈ 0.034544200 giây
+Correct!
+bvquoc‣KMULT‣a12: 2.50
+Thời gian ≈ 0.042263300 giây
+Correct!
+bvquoc‣KMULT‣a13: 2.50
+Thời gian ≈ 0.035802600 giây
+Correct!
+bvquoc‣KMULT‣a14: 2.50
+Thời gian ≈ 0.036806600 giây
+Correct!
+bvquoc‣KMULT‣a15: 2.50
+Thời gian ≈ 0.043875700 giây
+Correct!
+bvquoc‣KMULT‣a16: 2.50
+Thời gian ≈ 0.035325400 giây
+Correct!
+bvquoc‣KMULT‣a2: 2.50
+Thời gian ≈ 0.039567800 giây
+Correct!
+bvquoc‣KMULT‣a3: 2.50
+Thời gian ≈ 0.040229400 giây
+Correct!
+bvquoc‣KMULT‣a4: 2.50
+Thời gian ≈ 0.038878300 giây
+Correct!
+bvquoc‣KMULT‣a5: 2.50
+Thời gian ≈ 0.039074900 giây
+Correct!
+bvquoc‣KMULT‣a6: 2.50
+Thời gian ≈ 0.040688200 giây
+Correct!
+bvquoc‣KMULT‣a7: 2.50
+Thời gian ≈ 0.037628500 giây
+Correct!
+bvquoc‣KMULT‣a8: 2.50
+Thời gian ≈ 0.036594600 giây
+Correct!
+bvquoc‣KMULT‣a9: 2.50
+Thời gian ≈ 0.040102300 giây
+Correct!
+bvquoc‣KMULT‣b1: 2.50
+Thời gian ≈ 0.035448800 giây
+Correct!
+bvquoc‣KMULT‣b2: 2.50
+Thời gian ≈ 0.036199200 giây
+Correct!
+bvquoc‣KMULT‣b3: 2.50
+Thời gian ≈ 0.040518200 giây
+Correct!
+bvquoc‣KMULT‣b4: 2.50
+Thời gian ≈ 0.040655500 giây
+Correct!
+bvquoc‣KMULT‣c1: 2.50
+Thời gian ≈ 0.048012000 giây
+Correct!
+bvquoc‣KMULT‣c10: 2.50
+Thời gian ≈ 0.042459900 giây
+Correct!
+bvquoc‣KMULT‣c11: 2.50
+Thời gian ≈ 0.042759900 giây
+Correct!
+bvquoc‣KMULT‣c12: 2.50
+Thời gian ≈ 0.047700800 giây
+Correct!
+bvquoc‣KMULT‣c13: 2.50
+Thời gian ≈ 0.049778300 giây
+Correct!
+bvquoc‣KMULT‣c14: 2.50
+Thời gian ≈ 0.047616800 giây
+Correct!
+bvquoc‣KMULT‣c15: 2.50
+Thời gian ≈ 0.047950800 giây
+Correct!
+bvquoc‣KMULT‣c16: 2.50
+Thời gian ≈ 0.043595400 giây
+Correct!
+bvquoc‣KMULT‣c2: 2.50
+Thời gian ≈ 0.041921800 giây
+Correct!
+bvquoc‣KMULT‣c3: 2.50
+Thời gian ≈ 0.048918400 giây
+Correct!
+bvquoc‣KMULT‣c4: 2.50
+Thời gian ≈ 0.050687900 giây
+Correct!
+bvquoc‣KMULT‣c5: 2.50
+Thời gian ≈ 0.075720700 giây
+Correct!
+bvquoc‣KMULT‣c6: 2.50
+Thời gian ≈ 0.047417300 giây
+Correct!
+bvquoc‣KMULT‣c7: 2.50
+Thời gian ≈ 0.066383200 giây
+Correct!
+bvquoc‣KMULT‣c8: 2.50
+Thời gian ≈ 0.047735700 giây
+Correct!
+bvquoc‣KMULT‣c9: 2.50
+Thời gian ≈ 0.054325100 giây
+Correct!
+bvquoc‣KMULT‣d1: 0.00
+Chạy quá thời gian
+bvquoc‣KMULT‣d2: 0.00
+Chạy quá thời gian
+bvquoc‣KMULT‣d3: 0.00
+Chạy quá thời gian
+bvquoc‣KMULT‣d4: 0.00
+Chạy quá thời gian

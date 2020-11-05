@@ -1,0 +1,95 @@
+﻿tvhson‣BGAME: 23.33
+BGAME.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "BGAME.cpp" -pipe -O2 -s -static -lm -x c++ -o"BGAME.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom61525\
+Dịch thành công.
+
+tvhson‣BGAME‣Test01: 3.33
+Thời gian ≈ 0.040846800 giây
+Kết quả khớp đáp án!
+tvhson‣BGAME‣Test02: 3.33
+Thời gian ≈ 0.036781600 giây
+Kết quả khớp đáp án!
+tvhson‣BGAME‣Test03: 3.33
+Thời gian ≈ 0.037250800 giây
+Kết quả khớp đáp án!
+tvhson‣BGAME‣Test04: 3.33
+Thời gian ≈ 0.035335500 giây
+Kết quả khớp đáp án!
+tvhson‣BGAME‣Test05: 3.33
+Thời gian ≈ 0.034404000 giây
+Kết quả khớp đáp án!
+tvhson‣BGAME‣Test06: 3.33
+Thời gian ≈ 0.035101900 giây
+Kết quả khớp đáp án!
+tvhson‣BGAME‣Test07: 0.00
+Thời gian ≈ 0.035848700 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test08: 0.00
+Thời gian ≈ 0.035796900 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test09: 0.00
+Thời gian ≈ 0.034494000 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test10: 0.00
+Thời gian ≈ 0.035295800 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test11: 0.00
+Thời gian ≈ 0.036093800 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test12: 0.00
+Thời gian ≈ 0.034785400 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test13: 0.00
+Thời gian ≈ 0.041608800 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test14: 0.00
+Thời gian ≈ 0.039491600 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test15: 0.00
+Thời gian ≈ 0.039859900 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test16: 0.00
+Thời gian ≈ 0.040717500 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test17: 3.33
+Thời gian ≈ 0.035397200 giây
+Kết quả khớp đáp án!
+tvhson‣BGAME‣Test18: 0.00
+Thời gian ≈ 0.039475000 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test19: 0.00
+Thời gian ≈ 0.035289900 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test20: 0.00
+Thời gian ≈ 0.035050400 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test21: 0.00
+Thời gian ≈ 0.035193900 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test22: 0.00
+Thời gian ≈ 0.035835300 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test23: 0.00
+Thời gian ≈ 0.038183800 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test24: 0.00
+Thời gian ≈ 0.035956100 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test25: 0.00
+Thời gian ≈ 0.035386000 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test26: 0.00
+Thời gian ≈ 0.034434600 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test27: 0.00
+Thời gian ≈ 0.034993200 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test28: 0.00
+Thời gian ≈ 0.037451200 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test29: 0.00
+Thời gian ≈ 0.034451600 giây
+Kết quả KHÁC đáp án!
+tvhson‣BGAME‣Test30: 0.00
+Thời gian ≈ 0.035301100 giây
+Kết quả KHÁC đáp án!

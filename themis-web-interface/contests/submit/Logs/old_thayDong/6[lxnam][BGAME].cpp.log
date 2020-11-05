@@ -1,0 +1,95 @@
+﻿lxnam‣BGAME: 12.00
+BGAME.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "BGAME.cpp" -pipe -O2 -s -static -lm -x c++ -o"BGAME.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom16437\
+Dịch thành công.
+
+lxnam‣BGAME‣Test01: 1.00
+Thời gian ≈ 0.036511400 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test02: 1.00
+Thời gian ≈ 0.035828300 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test03: 1.00
+Thời gian ≈ 0.039124700 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test04: 1.00
+Thời gian ≈ 0.037129700 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test05: 1.00
+Thời gian ≈ 0.035559200 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test06: 1.00
+Thời gian ≈ 0.034790000 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test07: 0.00
+Thời gian ≈ 0.035708900 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test08: 0.00
+Thời gian ≈ 0.035851000 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test09: 0.00
+Thời gian ≈ 0.036639700 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test10: 0.00
+Thời gian ≈ 0.035305500 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test11: 0.00
+Thời gian ≈ 0.034875500 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test12: 0.00
+Thời gian ≈ 0.035036000 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test13: 1.00
+Thời gian ≈ 0.035790600 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test14: 1.00
+Thời gian ≈ 0.036047000 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test15: 1.00
+Thời gian ≈ 0.034768700 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test16: 1.00
+Thời gian ≈ 0.035812300 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test17: 1.00
+Thời gian ≈ 0.037843200 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test18: 1.00
+Thời gian ≈ 0.036022100 giây
+Kết quả khớp đáp án!
+lxnam‣BGAME‣Test19: 0.00
+Thời gian ≈ 0.035412300 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test20: 0.00
+Thời gian ≈ 0.037668200 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test21: 0.00
+Thời gian ≈ 0.035803700 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test22: 0.00
+Thời gian ≈ 0.033976700 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test23: 0.00
+Thời gian ≈ 0.036000500 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test24: 0.00
+Thời gian ≈ 0.037254400 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test25: 0.00
+Thời gian ≈ 0.036303800 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test26: 0.00
+Thời gian ≈ 0.036127100 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test27: 0.00
+Thời gian ≈ 0.034791800 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test28: 0.00
+Thời gian ≈ 0.035559200 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test29: 0.00
+Thời gian ≈ 0.035327200 giây
+Kết quả KHÁC đáp án!
+lxnam‣BGAME‣Test30: 0.00
+Thời gian ≈ 0.036505200 giây
+Kết quả KHÁC đáp án!

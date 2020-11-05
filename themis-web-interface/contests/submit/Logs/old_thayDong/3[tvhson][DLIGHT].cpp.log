@@ -1,0 +1,65 @@
+﻿tvhson‣DLIGHT: 90.00
+DLIGHT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "DLIGHT.cpp" -pipe -O2 -s -static -lm -x c++ -o"DLIGHT.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom49993\
+Dịch thành công.
+
+tvhson‣DLIGHT‣Test01: 5.00
+Thời gian ≈ 0.037633200 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test02: 5.00
+Thời gian ≈ 0.038412800 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test03: 5.00
+Thời gian ≈ 0.041898300 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test04: 5.00
+Thời gian ≈ 0.036234500 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test05: 5.00
+Thời gian ≈ 0.040625800 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test06: 5.00
+Thời gian ≈ 0.037099200 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test07: 5.00
+Thời gian ≈ 0.043023500 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test08: 5.00
+Thời gian ≈ 0.044891700 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test09: 5.00
+Thời gian ≈ 0.060501400 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test10: 5.00
+Thời gian ≈ 0.086182500 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test11: 5.00
+Thời gian ≈ 0.102230400 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test12: 5.00
+Thời gian ≈ 0.098766100 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test13: 5.00
+Thời gian ≈ 0.096388200 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test14: 5.00
+Thời gian ≈ 0.101864000 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test15: 5.00
+Thời gian ≈ 0.097343300 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test16: 5.00
+Thời gian ≈ 0.102404400 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test17: 5.00
+Thời gian ≈ 0.109577300 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test18: 5.00
+Thời gian ≈ 0.105162600 giây
+Kết quả khớp đáp án!
+tvhson‣DLIGHT‣Test19: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom4876\DLIGHT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+tvhson‣DLIGHT‣Test20: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom50451\DLIGHT.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

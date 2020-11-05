@@ -1,0 +1,33 @@
+﻿lxnam‣CANDIES: 20.00
+CANDIES.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "CANDIES.cpp" -pipe -O2 -s -static -lm -x c++ -o"CANDIES.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom33843\
+Dịch thành công.
+
+lxnam‣CANDIES‣Test01: 10.00
+Thời gian ≈ 0.059562600 giây
+Kết quả khớp đáp án!
+lxnam‣CANDIES‣Test02: 10.00
+Thời gian ≈ 0.060597000 giây
+Kết quả khớp đáp án!
+lxnam‣CANDIES‣Test03: 0.00
+Chạy quá thời gian
+lxnam‣CANDIES‣Test04: 0.00
+Chạy quá thời gian
+lxnam‣CANDIES‣Test05: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom60150\CANDIES.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣CANDIES‣Test06: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom27301\CANDIES.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣CANDIES‣Test07: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom57117\CANDIES.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣CANDIES‣Test08: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom62165\CANDIES.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣CANDIES‣Test09: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom37768\CANDIES.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+lxnam‣CANDIES‣Test10: 0.00
+Chạy sinh lỗi
+Command: "C:\ProgramData\ThemisWorkSpace\ContestRoom22058\CANDIES.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

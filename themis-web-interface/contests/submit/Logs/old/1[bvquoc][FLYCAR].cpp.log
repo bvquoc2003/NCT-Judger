@@ -1,0 +1,35 @@
+﻿bvquoc‣FLYCAR: 100.00
+FLYCAR.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "FLYCAR.cpp" -pipe -O2 -s -static -lm -x c++ -o"FLYCAR.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom3914\
+Dịch thành công.
+
+bvquoc‣FLYCAR‣Test1: 10.00
+Thời gian ≈ 0.057461200 giây
+Kết quả khớp đáp án!
+bvquoc‣FLYCAR‣Test10: 10.00
+Thời gian ≈ 0.400113300 giây
+Kết quả khớp đáp án!
+bvquoc‣FLYCAR‣Test2: 10.00
+Thời gian ≈ 0.041282800 giây
+Kết quả khớp đáp án!
+bvquoc‣FLYCAR‣Test3: 10.00
+Thời gian ≈ 0.044415500 giây
+Kết quả khớp đáp án!
+bvquoc‣FLYCAR‣Test4: 10.00
+Thời gian ≈ 0.048581800 giây
+Kết quả khớp đáp án!
+bvquoc‣FLYCAR‣Test5: 10.00
+Thời gian ≈ 0.071971300 giây
+Kết quả khớp đáp án!
+bvquoc‣FLYCAR‣Test6: 10.00
+Thời gian ≈ 0.087581100 giây
+Kết quả khớp đáp án!
+bvquoc‣FLYCAR‣Test7: 10.00
+Thời gian ≈ 0.084769400 giây
+Kết quả khớp đáp án!
+bvquoc‣FLYCAR‣Test8: 10.00
+Thời gian ≈ 0.127634400 giây
+Kết quả khớp đáp án!
+bvquoc‣FLYCAR‣Test9: 10.00
+Thời gian ≈ 0.239672000 giây
+Kết quả khớp đáp án!

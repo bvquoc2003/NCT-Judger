@@ -1,0 +1,65 @@
+﻿tvhson‣NETCARD: 100.00
+NETCARD.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "NETCARD.cpp" -pipe -O2 -s -static -lm -x c++ -o"NETCARD.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom59647\
+Dịch thành công.
+
+tvhson‣NETCARD‣Test01: 5.00
+Thời gian ≈ 0.046353500 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test02: 5.00
+Thời gian ≈ 0.041076700 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test03: 5.00
+Thời gian ≈ 0.035538300 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test04: 5.00
+Thời gian ≈ 0.036328700 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test05: 5.00
+Thời gian ≈ 0.040579700 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test06: 5.00
+Thời gian ≈ 0.092025500 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test07: 5.00
+Thời gian ≈ 0.076585200 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test08: 5.00
+Thời gian ≈ 0.053979300 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test09: 5.00
+Thời gian ≈ 0.057898600 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test10: 5.00
+Thời gian ≈ 0.042319400 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test11: 5.00
+Thời gian ≈ 0.263391100 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test12: 5.00
+Thời gian ≈ 0.138677200 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test13: 5.00
+Thời gian ≈ 0.223107900 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test14: 5.00
+Thời gian ≈ 0.175014000 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test15: 5.00
+Thời gian ≈ 0.116293900 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test16: 5.00
+Thời gian ≈ 0.174871500 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test17: 5.00
+Thời gian ≈ 0.165113700 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test18: 5.00
+Thời gian ≈ 0.210035800 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test19: 5.00
+Thời gian ≈ 0.128209400 giây
+Kết quả khớp đáp án!
+tvhson‣NETCARD‣Test20: 5.00
+Thời gian ≈ 0.316588200 giây
+Kết quả khớp đáp án!

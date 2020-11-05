@@ -1,0 +1,35 @@
+﻿bvquoc‣BONUS: 100.00
+BONUS.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "BONUS.cpp" -pipe -O2 -s -static -lm -x c++ -o"BONUS.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom30959\
+Dịch thành công.
+
+bvquoc‣BONUS‣test01: 10.00
+Thời gian ≈ 0.055992500 giây
+Kết quả khớp đáp án!
+bvquoc‣BONUS‣test02: 10.00
+Thời gian ≈ 0.061539600 giây
+Kết quả khớp đáp án!
+bvquoc‣BONUS‣test03: 10.00
+Thời gian ≈ 0.063515800 giây
+Kết quả khớp đáp án!
+bvquoc‣BONUS‣test04: 10.00
+Thời gian ≈ 0.044654700 giây
+Kết quả khớp đáp án!
+bvquoc‣BONUS‣test05: 10.00
+Thời gian ≈ 0.129259800 giây
+Kết quả khớp đáp án!
+bvquoc‣BONUS‣test06: 10.00
+Thời gian ≈ 0.749229000 giây
+Kết quả khớp đáp án!
+bvquoc‣BONUS‣test07: 10.00
+Thời gian ≈ 0.070006600 giây
+Kết quả khớp đáp án!
+bvquoc‣BONUS‣test08: 10.00
+Thời gian ≈ 0.732104000 giây
+Kết quả khớp đáp án!
+bvquoc‣BONUS‣test09: 10.00
+Thời gian ≈ 0.630285700 giây
+Kết quả khớp đáp án!
+bvquoc‣BONUS‣test10: 10.00
+Thời gian ≈ 0.565583500 giây
+Kết quả khớp đáp án!

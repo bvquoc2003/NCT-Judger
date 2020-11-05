@@ -1,0 +1,30 @@
+﻿tdchinh‣FACILITY: 50.00
+FACILITY.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "FACILITY.cpp" -pipe -O2 -s -static -lm -x c++ -o"FACILITY.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom22757\
+Dịch thành công.
+
+tdchinh‣FACILITY‣Test00: 10.00
+Thời gian ≈ 0.085177000 giây
+Kết quả khớp đáp án!
+tdchinh‣FACILITY‣Test01: 10.00
+Thời gian ≈ 0.036136200 giây
+Kết quả khớp đáp án!
+tdchinh‣FACILITY‣Test02: 10.00
+Thời gian ≈ 0.036900400 giây
+Kết quả khớp đáp án!
+tdchinh‣FACILITY‣Test03: 10.00
+Thời gian ≈ 0.082048200 giây
+Kết quả khớp đáp án!
+tdchinh‣FACILITY‣Test04: 10.00
+Thời gian ≈ 0.160676800 giây
+Kết quả khớp đáp án!
+tdchinh‣FACILITY‣Test05: 0.00
+Chạy quá thời gian
+tdchinh‣FACILITY‣Test06: 0.00
+Chạy quá thời gian
+tdchinh‣FACILITY‣Test07: 0.00
+Chạy quá thời gian
+tdchinh‣FACILITY‣Test08: 0.00
+Chạy quá thời gian
+tdchinh‣FACILITY‣Test09: 0.00
+Chạy quá thời gian

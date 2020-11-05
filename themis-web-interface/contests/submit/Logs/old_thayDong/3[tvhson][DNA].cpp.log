@@ -1,0 +1,164 @@
+﻿tvhson‣DNA: 50.30
+DNA.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "DNA.cpp" -pipe -O2 -s -static -lm -x c++ -o"DNA.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom31432\
+Dịch thành công.
+
+tvhson‣DNA‣test01: 2.00
+Thời gian ≈ 0.090926600 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test02: 2.00
+Thời gian ≈ 0.040431300 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test03: 2.00
+Thời gian ≈ 0.039903600 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test04: 2.00
+Thời gian ≈ 0.039991600 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test05: 2.00
+Thời gian ≈ 0.039333300 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test06: 2.00
+Thời gian ≈ 0.039823300 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test07: 2.00
+Thời gian ≈ 0.040652200 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test08: 2.00
+Thời gian ≈ 0.035435100 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test09: 2.00
+Thời gian ≈ 0.039544100 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test10: 2.00
+Thời gian ≈ 0.048569300 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test11: 2.00
+Thời gian ≈ 0.039442300 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test12: 2.00
+Thời gian ≈ 0.035905200 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test13: 2.00
+Thời gian ≈ 0.040826100 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test14: 2.00
+Thời gian ≈ 0.039957800 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test15: 0.00
+Thời gian ≈ 0.039622900 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test16: 2.00
+Thời gian ≈ 0.040961600 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test17: 2.00
+Thời gian ≈ 0.036679100 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test18: 0.00
+Thời gian ≈ 0.040105300 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test19: 0.00
+Thời gian ≈ 0.039291900 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test20: 0.00
+Thời gian ≈ 0.039114600 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test21: 2.00
+Thời gian ≈ 0.034703900 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test22: 2.00
+Thời gian ≈ 0.040435100 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test23: 0.00
+Thời gian ≈ 0.043405800 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test24: 0.00
+Thời gian ≈ 0.039472300 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test25: 2.00
+Thời gian ≈ 0.058501500 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test26: 0.00
+Thời gian ≈ 0.037070600 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test27: 0.00
+Thời gian ≈ 0.035656000 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test28: 0.00
+Thời gian ≈ 0.043488200 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test29: 0.00
+Thời gian ≈ 0.037686400 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test30: 0.00
+Thời gian ≈ 0.035184600 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test31: 0.00
+Thời gian ≈ 0.039216600 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test32: 0.00
+Thời gian ≈ 0.036258400 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test33: 0.00
+Thời gian ≈ 0.040722700 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test34: 0.00
+Thời gian ≈ 0.035830000 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test35: 0.00
+Thời gian ≈ 0.036367100 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test36: 0.00
+Thời gian ≈ 0.036726300 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test37: 0.00
+Thời gian ≈ 0.036887300 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test38: 0.00
+Thời gian ≈ 0.039093200 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test39: 0.00
+Thời gian ≈ 0.037664800 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test40: 0.00
+Thời gian ≈ 0.036167900 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test41: 0.00
+Thời gian ≈ 0.036045000 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test42: 0.00
+Thời gian ≈ 0.035738700 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test43: 0.00
+Thời gian ≈ 0.036619200 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test44: 2.00
+Thời gian ≈ 0.036775700 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test45: 0.00
+Thời gian ≈ 0.036613300 giây
+Kết quả KHÁC đáp án!
+tvhson‣DNA‣test46: 2.00
+Thời gian ≈ 0.037661700 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test47: 2.00
+Thời gian ≈ 0.036267500 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test48: 2.00
+Thời gian ≈ 0.038529700 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test49: 2.00
+Thời gian ≈ 0.036756300 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test50: 2.00
+Thời gian ≈ 0.035919200 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test51: 0.10
+Thời gian ≈ 0.035994500 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test52: 0.10
+Thời gian ≈ 0.036035400 giây
+Kết quả khớp đáp án!
+tvhson‣DNA‣test53: 0.10
+Thời gian ≈ 0.036318500 giây
+Kết quả khớp đáp án!

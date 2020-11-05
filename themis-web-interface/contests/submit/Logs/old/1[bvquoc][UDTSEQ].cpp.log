@@ -1,0 +1,65 @@
+﻿bvquoc‣UDTSEQ: 100.00
+UDTSEQ.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "UDTSEQ.cpp" -pipe -O2 -s -static -lm -x c++ -o"UDTSEQ.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom35535\
+Dịch thành công.
+
+bvquoc‣UDTSEQ‣Test01: 5.00
+Thời gian ≈ 0.041284500 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test02: 5.00
+Thời gian ≈ 0.060261700 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test03: 5.00
+Thời gian ≈ 0.079333300 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test04: 5.00
+Thời gian ≈ 0.046916200 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test05: 5.00
+Thời gian ≈ 0.050187200 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test06: 5.00
+Thời gian ≈ 0.064504400 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test07: 5.00
+Thời gian ≈ 0.048345900 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test08: 5.00
+Thời gian ≈ 0.058231700 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test09: 5.00
+Thời gian ≈ 0.041544600 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test10: 5.00
+Thời gian ≈ 0.042724700 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test11: 5.00
+Thời gian ≈ 0.072743400 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test12: 5.00
+Thời gian ≈ 0.092022000 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test13: 5.00
+Thời gian ≈ 0.079527000 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test14: 5.00
+Thời gian ≈ 0.109213300 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test15: 5.00
+Thời gian ≈ 0.106401500 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test16: 5.00
+Thời gian ≈ 0.161382100 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test17: 5.00
+Thời gian ≈ 0.095269000 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test18: 5.00
+Thời gian ≈ 0.109698400 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test19: 5.00
+Thời gian ≈ 0.088581500 giây
+Kết quả khớp đáp án!
+bvquoc‣UDTSEQ‣Test20: 5.00
+Thời gian ≈ 0.136900700 giây
+Kết quả khớp đáp án!

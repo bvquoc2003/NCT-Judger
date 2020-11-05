@@ -1,0 +1,95 @@
+﻿tdchinh‣GAME: 85.00
+GAME.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "GAME.cpp" -pipe -O2 -s -static -lm -x c++ -o"GAME.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom295\
+Dịch thành công.
+
+tdchinh‣GAME‣Test01: 4.00
+Thời gian ≈ 0.070338500 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test02: 4.00
+Thời gian ≈ 0.042054400 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test03: 4.00
+Thời gian ≈ 0.041777000 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test04: 4.00
+Thời gian ≈ 0.040568400 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test05: 4.00
+Thời gian ≈ 0.046105200 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test06: 4.00
+Thời gian ≈ 0.060257700 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test07: 4.00
+Thời gian ≈ 0.044429300 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test08: 4.00
+Thời gian ≈ 0.040725700 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test09: 4.00
+Thời gian ≈ 0.041422000 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test10: 4.00
+Thời gian ≈ 0.167817000 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test11: 3.00
+Thời gian ≈ 0.070402200 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test12: 3.00
+Thời gian ≈ 0.112821200 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test13: 3.00
+Thời gian ≈ 0.158202900 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test14: 0.00
+Thời gian ≈ 0.090323400 giây
+Kết quả KHÁC đáp án!
+tdchinh‣GAME‣Test15: 0.00
+Thời gian ≈ 0.110815100 giây
+Kết quả KHÁC đáp án!
+tdchinh‣GAME‣Test16: 0.00
+Thời gian ≈ 0.049094300 giây
+Kết quả KHÁC đáp án!
+tdchinh‣GAME‣Test17: 3.00
+Thời gian ≈ 0.082957600 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test18: 3.00
+Thời gian ≈ 0.206821100 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test19: 0.00
+Thời gian ≈ 0.180151500 giây
+Kết quả KHÁC đáp án!
+tdchinh‣GAME‣Test20: 0.00
+Thời gian ≈ 0.095197900 giây
+Kết quả KHÁC đáp án!
+tdchinh‣GAME‣Test21: 3.00
+Thời gian ≈ 0.084107100 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test22: 3.00
+Thời gian ≈ 0.167037500 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test23: 3.00
+Thời gian ≈ 0.148061000 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test24: 3.00
+Thời gian ≈ 0.135928800 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test25: 3.00
+Thời gian ≈ 0.071052800 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test26: 3.00
+Thời gian ≈ 0.066057700 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test27: 3.00
+Thời gian ≈ 0.114930100 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test28: 3.00
+Thời gian ≈ 0.102877400 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test29: 3.00
+Thời gian ≈ 0.157665100 giây
+Kết quả khớp đáp án!
+tdchinh‣GAME‣Test30: 3.00
+Thời gian ≈ 0.099305300 giây
+Kết quả khớp đáp án!

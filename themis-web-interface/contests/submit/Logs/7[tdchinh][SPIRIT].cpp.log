@@ -1,0 +1,140 @@
+﻿tdchinh‣SPIRIT: 100.00
+SPIRIT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "SPIRIT.cpp" -pipe -O2 -s -static -lm -x c++ -o"SPIRIT.exe" -Wl,--stack,66060288|@WorkDir=C:\ProgramData\ThemisWorkSpace\WaitRoom30100\
+Dịch thành công.
+
+tdchinh‣SPIRIT‣Test00: 2.22
+Thời gian ≈ 0.149323100 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test01: 2.22
+Thời gian ≈ 0.044376300 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test02: 2.22
+Thời gian ≈ 0.040072400 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test03: 2.22
+Thời gian ≈ 0.040001600 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test04: 2.22
+Thời gian ≈ 0.035732200 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test05: 2.22
+Thời gian ≈ 0.035027900 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test06: 2.22
+Thời gian ≈ 0.034458500 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test07: 2.22
+Thời gian ≈ 0.036981300 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test08: 2.22
+Thời gian ≈ 0.036184900 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test09: 2.22
+Thời gian ≈ 0.035588500 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test10: 2.22
+Thời gian ≈ 0.036013100 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test11: 2.22
+Thời gian ≈ 0.036503100 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test12: 2.22
+Thời gian ≈ 0.035885800 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test13: 2.22
+Thời gian ≈ 0.037139600 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test14: 2.22
+Thời gian ≈ 0.035841400 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test15: 2.22
+Thời gian ≈ 0.036796500 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test16: 2.22
+Thời gian ≈ 0.036019600 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test17: 2.22
+Thời gian ≈ 0.036225800 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test18: 2.22
+Thời gian ≈ 0.037289500 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test19: 2.22
+Thời gian ≈ 0.036813200 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test20: 2.22
+Thời gian ≈ 0.038341000 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test21: 2.22
+Thời gian ≈ 0.037530800 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test22: 2.22
+Thời gian ≈ 0.037838400 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test23: 2.22
+Thời gian ≈ 0.036804800 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test24: 2.22
+Thời gian ≈ 0.035752100 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test25: 2.22
+Thời gian ≈ 0.037604400 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test26: 2.22
+Thời gian ≈ 0.036868300 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test27: 2.22
+Thời gian ≈ 0.036571600 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test28: 2.22
+Thời gian ≈ 0.037225000 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test29: 2.22
+Thời gian ≈ 0.036864500 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test30: 2.22
+Thời gian ≈ 0.036937800 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test31: 2.22
+Thời gian ≈ 0.037646100 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test32: 2.22
+Thời gian ≈ 0.037034800 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test33: 2.22
+Thời gian ≈ 0.045413300 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test34: 2.22
+Thời gian ≈ 0.038130900 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test35: 2.22
+Thời gian ≈ 0.039231300 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test36: 2.22
+Thời gian ≈ 0.037540800 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test37: 2.22
+Thời gian ≈ 0.035930700 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test38: 2.22
+Thời gian ≈ 0.036741300 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test39: 2.22
+Thời gian ≈ 0.036579900 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test40: 2.22
+Thời gian ≈ 0.037279100 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test41: 2.22
+Thời gian ≈ 0.037302800 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test42: 2.22
+Thời gian ≈ 0.037020600 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test43: 2.22
+Thời gian ≈ 0.040954200 giây
+Kết quả khớp đáp án!
+tdchinh‣SPIRIT‣Test44: 2.22
+Thời gian ≈ 0.038330400 giây
+Kết quả khớp đáp án!
